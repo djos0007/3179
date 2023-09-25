@@ -1,0 +1,1391 @@
+Order ID,Customer Name,Segment,Order Date,State,Postal Code,Category,Ship Date,Days to Ship,Quantity,Sales
+CA-2019-111150,Rob Williams,Corporate,31-Dec-19,Missouri,65203,Office Supplies,04-Jan-20,4,7,$29.7
+,,,,,,Technology,04-Jan-20,4,7,$47.5
+CA-2019-127383,Candace McMahon,Corporate,31-Dec-19,Texas,79907,Office Supplies,05-Jan-20,5,2,$49.6
+CA-2019-133592,Katherine Murray,Home Office,31-Dec-19,Rhode Island,02908,Furniture,07-Jan-20,7,8,$947.8
+,,,,,,Office Supplies,07-Jan-20,7,7,$210.6
+,,,,,,Technology,07-Jan-20,7,4,"$1,687.8"
+CA-2019-150245,Pamela Coakley,Corporate,31-Dec-19,New York,13601,Furniture,04-Jan-20,4,7,"$1,573.5"
+CA-2019-157644,Aaron Hawkins,Corporate,31-Dec-19,New York,10035,Office Supplies,01-Jan-20,1,3,$18.9
+,,,,,,Technology,01-Jan-20,1,3,$34.8
+US-2019-133949,James Lanier,Home Office,31-Dec-19,Nevada,89502,Technology,31-Dec-19,0,7,$475.9
+US-2019-143231,Gary Mitchum,Home Office,31-Dec-19,Massachusetts,02038,Furniture,03-Jan-20,3,5,$63.2
+,,,,,,Technology,03-Jan-20,3,3,$114.0
+CA-2019-104738,Stefania Perrino,Corporate,30-Dec-19,Texas,78041,Office Supplies,01-Jan-20,2,6,$15.3
+,,,,,,Technology,01-Jan-20,2,7,$594.3
+CA-2019-130960,Ken Brennan,Corporate,30-Dec-19,Michigan,48180,Office Supplies,04-Jan-20,5,3,$9.8
+CA-2019-131800,Astrea Jones,Consumer,30-Dec-19,New York,10035,Office Supplies,04-Jan-20,5,10,$158.4
+CA-2019-138072,Guy Armstrong,Consumer,30-Dec-19,Pennsylvania,19120,Technology,03-Jan-20,4,2,$28.0
+CA-2019-166730,Dorothy Dickinson,Consumer,30-Dec-19,Tennessee,38109,Office Supplies,01-Jan-20,2,1,$39.1
+US-2019-115189,Alex Russell,Corporate,30-Dec-19,Pennsylvania,19143,Furniture,03-Jan-20,4,3,$523.8
+,,,,,,Technology,03-Jan-20,4,6,$252.0
+US-2019-169789,Maureen Fritzler,Corporate,30-Dec-19,Arizona,85023,Office Supplies,04-Jan-20,5,5,$552.0
+CA-2019-102330,Arianne Irving,Consumer,29-Dec-19,California,94513,Office Supplies,03-Jan-20,5,6,$88.8
+,,,,,,Technology,03-Jan-20,5,4,$320.0
+CA-2019-106803,Debra Catini,Consumer,29-Dec-19,Minnesota,55016,Office Supplies,02-Jan-20,4,2,$24.6
+,,,,,,Technology,02-Jan-20,4,4,$119.8
+CA-2019-110786,Anthony Johnson,Corporate,29-Dec-19,California,94110,Furniture,02-Jan-20,4,11,$95.5
+,,,,,,Office Supplies,02-Jan-20,4,16,$310.2
+,,,,,,Technology,02-Jan-20,4,9,$959.9
+CA-2019-118276,Michael Granlund,Home Office,29-Dec-19,Illinois,60174,Furniture,02-Jan-20,4,3,$8.7
+CA-2019-126802,Zuschuss Carroll,Consumer,29-Dec-19,Illinois,60610,Furniture,05-Jan-20,7,3,$39.0
+CA-2019-152345,Shui Tom,Consumer,29-Dec-19,New Mexico,87105,Office Supplies,03-Jan-20,5,1,$33.3
+,,,,,,Technology,03-Jan-20,5,3,$24.0
+CA-2019-165477,Ricardo Emerson,Consumer,29-Dec-19,Ohio,44240,Office Supplies,31-Dec-19,2,5,$48.4
+CA-2019-141313,Anthony Jacobs,Corporate,28-Dec-19,Massachusetts,01915,Office Supplies,01-Jan-20,4,15,"$2,583.2"
+CA-2019-143371,Maribeth Dona,Consumer,28-Dec-19,California,92804,Office Supplies,03-Jan-20,6,14,"$1,050.0"
+CA-2019-164259,Sung Pak,Corporate,28-Dec-19,Pennsylvania,19143,Office Supplies,30-Dec-19,2,4,$99.1
+CA-2019-120243,Alyssa Tate,Home Office,27-Dec-19,California,90004,Office Supplies,30-Dec-19,3,4,$11.6
+CA-2019-148383,Resi Pölking,Consumer,27-Dec-19,Arizona,85023,Office Supplies,31-Dec-19,4,6,$946.8
+CA-2019-153087,Tamara Chand,Corporate,27-Dec-19,Alabama,35601,Office Supplies,03-Jan-20,7,4,$23.9
+,,,,,,Technology,03-Jan-20,7,5,$498.0
+CA-2019-162866,Corey-Lock,Consumer,27-Dec-19,Illinois,60076,Furniture,31-Dec-19,4,6,$33.0
+,,,,,,Office Supplies,31-Dec-19,4,4,$30.0
+CA-2019-163447,Thomas Brumley,Home Office,27-Dec-19,New York,10011,Furniture,31-Dec-19,4,14,$767.2
+CA-2019-165393,Nathan Cano,Consumer,27-Dec-19,Texas,76106,Office Supplies,30-Dec-19,3,1,$5.0
+CA-2019-166961,Cynthia Delaney,Home Office,27-Dec-19,California,92553,Office Supplies,31-Dec-19,4,10,$107.3
+US-2019-106334,Jeremy Farry,Consumer,27-Dec-19,California,94122,Furniture,02-Jan-20,6,3,$230.3
+,,,,,,Office Supplies,02-Jan-20,6,3,$12.8
+US-2019-159611,Karl Braun,Consumer,27-Dec-19,Ohio,44105,Furniture,01-Jan-20,5,3,$182.4
+,,,,,,Office Supplies,01-Jan-20,5,2,$118.2
+CA-2019-101427,Andy Yotov,Corporate,26-Dec-19,Pennsylvania,19140,Office Supplies,30-Dec-19,4,3,$8.0
+CA-2019-106264,Clytie Kelty,Consumer,26-Dec-19,California,92024,Furniture,30-Dec-19,4,2,$3.5
+,,,,,,Office Supplies,30-Dec-19,4,3,$11.9
+CA-2019-111451,Kelly Lampkin,Corporate,26-Dec-19,Colorado,80906,Furniture,28-Dec-19,2,14,$749.1
+,,,,,,Office Supplies,28-Dec-19,2,8,$106.2
+CA-2019-139598,Maureen Gnade,Consumer,26-Dec-19,Pennsylvania,19134,Office Supplies,31-Dec-19,5,11,$361.6
+CA-2019-168473,Tracy Blumstein,Consumer,26-Dec-19,New York,10009,Office Supplies,01-Jan-20,6,6,$191.9
+US-2019-111171,Christina Anderson,Consumer,26-Dec-19,Illinois,60610,Office Supplies,31-Dec-19,5,5,$8.7
+US-2019-152030,Alan Dominguez,Home Office,26-Dec-19,Texas,77041,Furniture,28-Dec-19,2,3,$600.6
+CA-2019-113166,Luke Foster,Consumer,24-Dec-19,Florida,33180,Office Supplies,26-Dec-19,2,2,$9.6
+CA-2019-132913,Adam Shillingsburg,Consumer,24-Dec-19,California,92037,Office Supplies,26-Dec-19,2,1,$14.0
+CA-2019-156314,Resi Pölking,Consumer,24-Dec-19,Ohio,44105,Furniture,26-Dec-19,2,5,$30.4
+US-2019-138247,Ben Ferrer,Home Office,24-Dec-19,California,90045,Furniture,29-Dec-19,5,1,$24.0
+,,,,,,Office Supplies,29-Dec-19,5,3,$382.3
+,,,,,,Technology,29-Dec-19,5,13,"$1,054.9"
+US-2019-167738,Julie Creighton,Corporate,24-Dec-19,California,90045,Furniture,29-Dec-19,5,6,$292.3
+,,,,,,Office Supplies,29-Dec-19,5,1,$142.9
+CA-2019-114517,Tiffany House,Corporate,23-Dec-19,New York,10024,Furniture,27-Dec-19,4,2,$53.3
+,,,,,,Office Supplies,27-Dec-19,4,3,$56.5
+CA-2019-126333,Michelle Ellison,Corporate,23-Dec-19,Texas,77642,Office Supplies,28-Dec-19,5,1,$5.2
+CA-2019-142314,Sarah Foster,Consumer,23-Dec-19,Indiana,47374,Office Supplies,28-Dec-19,5,11,$207.2
+CA-2019-154158,Craig Carreira,Consumer,23-Dec-19,Florida,33614,Furniture,27-Dec-19,4,1,$64.8
+,,,,,,Office Supplies,27-Dec-19,4,11,$555.1
+CA-2019-101364,Tamara Willingham,Home Office,22-Dec-19,New York,10011,Office Supplies,26-Dec-19,4,13,$296.7
+CA-2019-133543,Khloe Miller,Consumer,22-Dec-19,California,95123,Office Supplies,26-Dec-19,4,4,$11.8
+CA-2019-142510,Nora Preis,Consumer,22-Dec-19,Illinois,60623,Office Supplies,29-Dec-19,7,11,$274.1
+CA-2019-146864,Bradley Talbott,Home Office,22-Dec-19,New York,10024,Office Supplies,26-Dec-19,4,4,$216.4
+CA-2019-109127,John Castell,Consumer,21-Dec-19,Delaware,19711,Office Supplies,25-Dec-19,4,6,$17.3
+CA-2019-134621,Dennis Pardue,Home Office,21-Dec-19,Tennessee,38401,Office Supplies,28-Dec-19,7,2,$18.2
+CA-2019-154893,Gary McGarr,Consumer,21-Dec-19,California,92024,Furniture,27-Dec-19,6,9,"$1,897.9"
+CA-2019-103100,Adrian Barton,Consumer,20-Dec-19,Indiana,46203,Office Supplies,23-Dec-19,3,4,"$1,107.7"
+CA-2019-120852,William Brown,Consumer,20-Dec-19,Texas,75051,Office Supplies,25-Dec-19,5,2,$19.4
+,,,,,,Technology,25-Dec-19,5,5,$65.4
+CA-2019-134551,Tony Sayre,Consumer,20-Dec-19,Tennessee,38401,Furniture,25-Dec-19,5,3,$662.9
+,,,,,,Office Supplies,25-Dec-19,5,12,$69.4
+CA-2019-136567,Penelope Sewall,Home Office,20-Dec-19,Virginia,22801,Furniture,21-Dec-19,1,9,"$2,699.6"
+,,,,,,Office Supplies,21-Dec-19,1,5,$184.8
+CA-2019-138681,Carol Triggs,Consumer,20-Dec-19,Arizona,85705,Furniture,22-Dec-19,2,5,$294.3
+,,,,,,Office Supplies,22-Dec-19,2,7,$230.4
+,,,,,,Technology,22-Dec-19,2,3,$72.0
+CA-2019-140816,Toby Carlisle,Consumer,20-Dec-19,Colorado,80229,Technology,20-Dec-19,0,7,$447.9
+CA-2019-156594,Michael Chen,Consumer,20-Dec-19,California,90008,Office Supplies,23-Dec-19,3,10,$694.5
+CA-2019-160157,Mark Hamilton,Consumer,20-Dec-19,Ohio,45011,Furniture,27-Dec-19,7,3,$190.8
+CA-2019-163412,Suzanne McNair,Corporate,20-Dec-19,New York,10035,Furniture,23-Dec-19,3,3,$192.2
+US-2019-109036,Keith Herrera,Consumer,20-Dec-19,Washington,98103,Office Supplies,25-Dec-19,5,3,$31.1
+CA-2019-120768,Irene Maddox,Consumer,19-Dec-19,Alabama,35630,Furniture,21-Dec-19,2,14,"$1,819.9"
+,,,,,,Office Supplies,21-Dec-19,2,7,$160.0
+CA-2019-162992,Bart Pistole,Corporate,19-Dec-19,California,90008,Office Supplies,21-Dec-19,2,7,$37.2
+,,,,,,Technology,21-Dec-19,2,9,$795.0
+CA-2019-169446,Speros Goranitis,Consumer,19-Dec-19,Illinois,60623,Office Supplies,25-Dec-19,6,6,$48.1
+,,,,,,Technology,25-Dec-19,6,3,$324.0
+US-2019-150574,Mike Kennedy,Consumer,19-Dec-19,Florida,32216,Office Supplies,25-Dec-19,6,2,$4.8
+,,,,,,Technology,25-Dec-19,6,5,$247.8
+CA-2019-123925,Roy Französisch,Consumer,17-Dec-19,Georgia,31907,Office Supplies,19-Dec-19,2,3,$40.1
+CA-2019-139633,Erin Creighton,Consumer,17-Dec-19,Ohio,43229,Office Supplies,24-Dec-19,7,4,$5.5
+CA-2019-100706,Laurel Elliston,Consumer,16-Dec-19,Virginia,22153,Furniture,18-Dec-19,2,6,$29.5
+,,,,,,Technology,18-Dec-19,2,2,$100.0
+CA-2019-108273,Ed Jacobs,Consumer,16-Dec-19,Texas,77340,Furniture,21-Dec-19,5,2,$56.6
+,,,,,,Office Supplies,21-Dec-19,5,7,$36.3
+CA-2019-112718,Kean Nguyen,Corporate,16-Dec-19,Florida,32216,Office Supplies,21-Dec-19,5,1,$1.2
+CA-2019-113257,Sean Christensen,Consumer,16-Dec-19,Texas,77705,Furniture,18-Dec-19,2,7,$8.6
+,,,,,,Technology,18-Dec-19,2,4,$320.0
+CA-2019-124247,Stefanie Holloman,Corporate,16-Dec-19,California,95823,Furniture,21-Dec-19,5,5,"$1,403.9"
+CA-2019-136399,Chad Cunningham,Home Office,16-Dec-19,California,90049,Furniture,17-Dec-19,1,4,$286.0
+,,,,,,Technology,17-Dec-19,1,9,"$1,022.2"
+CA-2019-151379,Steve Chapman,Corporate,16-Dec-19,Michigan,48227,Office Supplies,20-Dec-19,4,5,$114.2
+CA-2019-153913,Ken Black,Corporate,16-Dec-19,Florida,33012,Furniture,20-Dec-19,4,9,"$1,013.8"
+,,,,,,Office Supplies,20-Dec-19,4,2,$2.0
+CA-2019-101602,Mick Crebagga,Consumer,15-Dec-19,Texas,79907,Furniture,18-Dec-19,3,5,$763.3
+,,,,,,Technology,18-Dec-19,3,3,$40.7
+CA-2019-116673,Jas O'Carroll,Consumer,15-Dec-19,California,92037,Furniture,19-Dec-19,4,2,$6.2
+CA-2019-119466,Sung Pak,Corporate,15-Dec-19,Illinois,60623,Furniture,21-Dec-19,6,2,$8.5
+CA-2019-129938,Ed Braxton,Corporate,15-Dec-19,Pennsylvania,19140,Furniture,17-Dec-19,2,7,$445.8
+CA-2019-116568,Bryan Mills,Consumer,14-Dec-19,Florida,32725,Furniture,20-Dec-19,6,4,$186.3
+CA-2019-130575,Cari Sayre,Corporate,14-Dec-19,Illinois,60623,Office Supplies,16-Dec-19,2,3,$9.3
+CA-2019-145541,Tom Boeckenhauer,Consumer,14-Dec-19,New York,10024,Technology,21-Dec-19,7,4,"$7,000.0"
+CA-2019-148950,Joy Daniels,Consumer,14-Dec-19,Illinois,60610,Office Supplies,19-Dec-19,5,6,$8.0
+,,,,,,Technology,19-Dec-19,5,3,$35.0
+US-2019-123519,Sung Shariari,Consumer,14-Dec-19,Ohio,43302,Furniture,21-Dec-19,7,1,$136.5
+,,,,,,Office Supplies,21-Dec-19,7,1,$2.6
+,,,,,,Technology,21-Dec-19,7,1,$264.0
+CA-2019-113579,Katherine Ducich,Consumer,13-Dec-19,California,90049,Office Supplies,15-Dec-19,2,6,$90.2
+CA-2019-124079,Randy Ferguson,Corporate,13-Dec-19,Arizona,85023,Furniture,17-Dec-19,4,3,$88.0
+,,,,,,Office Supplies,17-Dec-19,4,2,$5.2
+CA-2019-129819,Kimberly Carter,Corporate,13-Dec-19,Kentucky,42420,Office Supplies,15-Dec-19,2,3,$12.4
+CA-2019-154186,Ralph Arnett,Consumer,13-Dec-19,Texas,77070,Office Supplies,15-Dec-19,2,1,$2.9
+US-2019-102631,Ellis Ballard,Corporate,13-Dec-19,Illinois,60623,Furniture,17-Dec-19,4,3,$94.4
+CA-2019-107573,Philip Brown,Consumer,12-Dec-19,Florida,33178,Office Supplies,17-Dec-19,5,3,$23.5
+CA-2019-113320,Logan Haushalter,Consumer,12-Dec-19,California,94601,Furniture,15-Dec-19,3,6,$21.8
+,,,,,,Office Supplies,15-Dec-19,3,3,$8.9
+CA-2019-141607,William Brown,Consumer,12-Dec-19,California,94521,Furniture,17-Dec-19,5,1,$43.3
+CA-2019-168494,Nora Preis,Consumer,12-Dec-19,California,93727,Furniture,14-Dec-19,2,21,"$4,630.5"
+US-2019-122959,Craig Yedwab,Corporate,12-Dec-19,Texas,78207,Office Supplies,12-Dec-19,0,2,$210.4
+CA-2019-148488,Sally Matthias,Consumer,10-Dec-19,New York,10009,Office Supplies,15-Dec-19,5,9,$117.7
+US-2019-112991,Sally Hughsby,Corporate,10-Dec-19,Idaho,83605,Furniture,14-Dec-19,4,3,$338.4
+,,,,,,Office Supplies,14-Dec-19,4,8,$117.3
+CA-2019-101175,Dario Medina,Corporate,09-Dec-19,Arizona,85204,Office Supplies,14-Dec-19,5,6,$100.7
+CA-2019-104976,Cyma Kinney,Corporate,09-Dec-19,California,94122,Office Supplies,16-Dec-19,7,6,$34.7
+CA-2019-109932,Victoria Pisteka,Corporate,09-Dec-19,Texas,78521,Office Supplies,11-Dec-19,2,5,$247.8
+CA-2019-138128,Frank Preis,Consumer,09-Dec-19,Pennsylvania,19134,Office Supplies,15-Dec-19,6,3,$30.7
+,,,,,,Technology,15-Dec-19,6,4,"$1,080.0"
+CA-2019-169649,Thomas Seio,Corporate,09-Dec-19,Illinois,60653,Office Supplies,15-Dec-19,6,4,$28.8
+CA-2019-104773,Thomas Boland,Corporate,08-Dec-19,Texas,77041,Office Supplies,13-Dec-19,5,2,$60.4
+CA-2019-129364,Tim Brockman,Consumer,08-Dec-19,Oregon,97301,Office Supplies,13-Dec-19,5,26,$109.2
+,,,,,,Technology,13-Dec-19,5,13,$156.6
+CA-2019-135608,Jim Karlsson,Consumer,08-Dec-19,Washington,98502,Furniture,10-Dec-19,2,5,$603.9
+,,,,,,Office Supplies,10-Dec-19,2,2,$45.7
+CA-2019-144071,Denny Joy,Corporate,08-Dec-19,California,94110,Furniture,15-Dec-19,7,5,$119.3
+CA-2019-101392,Ann Steele,Home Office,07-Dec-19,Washington,98103,Office Supplies,13-Dec-19,6,7,$269.4
+CA-2019-138737,Frank Preis,Consumer,07-Dec-19,California,90049,Office Supplies,10-Dec-19,3,3,$8.6
+CA-2019-154592,Erica Hernandez,Home Office,07-Dec-19,California,94109,Office Supplies,08-Dec-19,1,3,$164.9
+CA-2019-159681,Patrick O'Brill,Consumer,07-Dec-19,Virginia,23464,Office Supplies,13-Dec-19,6,4,$105.5
+CA-2019-106726,Roland Schwarz,Corporate,06-Dec-19,California,90008,Office Supplies,08-Dec-19,2,7,"$1,261.3"
+CA-2019-110030,Luke Foster,Consumer,06-Dec-19,Texas,77095,Furniture,08-Dec-19,2,3,$24.0
+CA-2019-155390,Barry Gonzalez,Consumer,06-Dec-19,Tennessee,38109,Office Supplies,11-Dec-19,5,2,$42.2
+US-2019-112872,Ryan Crowe,Consumer,06-Dec-19,Oregon,97477,Furniture,11-Dec-19,5,1,$275.5
+,,,,,,Office Supplies,11-Dec-19,5,3,$53.4
+US-2019-140452,Berenike Kampe,Consumer,06-Dec-19,Illinois,60610,Furniture,10-Dec-19,4,8,$225.7
+,,,,,,Office Supplies,10-Dec-19,4,8,$53.8
+,,,,,,Technology,10-Dec-19,4,4,$35.0
+CA-2019-106376,Brendan Sweed,Corporate,05-Dec-19,Arizona,85234,Office Supplies,10-Dec-19,5,8,"$1,113.0"
+,,,,,,Technology,10-Dec-19,5,4,$168.0
+CA-2019-125542,Nona Balk,Corporate,05-Dec-19,Pennsylvania,19134,Office Supplies,07-Dec-19,2,11,$521.2
+CA-2019-133830,Rob Lucas,Consumer,05-Dec-19,California,90045,Office Supplies,10-Dec-19,5,16,$90.6
+CA-2019-138296,Roy Collins,Consumer,05-Dec-19,Virginia,22304,Office Supplies,12-Dec-19,7,2,$24.6
+CA-2019-150203,Joni Blumstein,Consumer,05-Dec-19,California,90032,Office Supplies,07-Dec-19,2,6,$250.3
+CA-2019-151162,Erin Ashbrook,Corporate,05-Dec-19,Ohio,43229,Office Supplies,09-Dec-19,4,10,$145.8
+,,,,,,Technology,09-Dec-19,4,3,$216.7
+CA-2019-166191,David Kendrick,Corporate,05-Dec-19,Illinois,62521,Office Supplies,09-Dec-19,4,2,$24.8
+,,,,,,Technology,09-Dec-19,4,7,$408.7
+CA-2019-127187,Cathy Prescott,Corporate,04-Dec-19,New York,10024,Technology,08-Dec-19,4,2,$130.0
+CA-2019-122749,Nathan Gelder,Consumer,03-Dec-19,Oklahoma,73120,Technology,09-Dec-19,6,4,$480.0
+CA-2019-164861,Matthew Clasen,Corporate,03-Dec-19,Missouri,63116,Office Supplies,06-Dec-19,3,4,$25.9
+CA-2019-101147,Matt Collins,Consumer,02-Dec-19,Illinois,60623,Office Supplies,04-Dec-19,2,1,$2.4
+CA-2019-103807,Elizabeth Moffitt,Corporate,02-Dec-19,Georgia,30328,Office Supplies,09-Dec-19,7,3,$15.2
+,,,,,,Technology,09-Dec-19,7,1,$6.0
+CA-2019-112158,David Philippe,Consumer,02-Dec-19,New York,10035,Furniture,04-Dec-19,2,5,$883.9
+,,,,,,Office Supplies,04-Dec-19,2,8,$46.7
+,,,,,,Technology,04-Dec-19,2,4,$120.0
+CA-2019-132864,Katherine Nockton,Corporate,02-Dec-19,Ohio,43229,Technology,07-Dec-19,5,5,$119.8
+CA-2019-154095,Odella Nelson,Corporate,02-Dec-19,Maryland,20735,Furniture,07-Dec-19,5,11,$300.6
+,,,,,,Office Supplies,07-Dec-19,5,9,$162.5
+US-2019-117744,Michael Dominguez,Corporate,02-Dec-19,Texas,78415,Furniture,06-Dec-19,4,10,$98.3
+,,,,,,Office Supplies,06-Dec-19,4,7,$16.5
+CA-2019-120474,Resi Pölking,Consumer,01-Dec-19,Wisconsin,53711,Furniture,03-Dec-19,2,8,"$2,807.8"
+,,,,,,Office Supplies,03-Dec-19,2,4,$46.6
+CA-2019-131051,Toby Ritter,Consumer,01-Dec-19,California,94122,Furniture,05-Dec-19,4,3,$58.2
+CA-2019-131527,Toby Braunhardt,Consumer,01-Dec-19,North Carolina,28540,Technology,07-Dec-19,6,4,$96.0
+CA-2019-143210,Anna Andreadi,Consumer,01-Dec-19,Massachusetts,01852,Furniture,03-Dec-19,2,5,$55.7
+,,,,,,Technology,03-Dec-19,2,2,$271.9
+CA-2019-150798,Joe Kamberova,Consumer,01-Dec-19,Ohio,43229,Furniture,03-Dec-19,2,8,$917.8
+,,,,,,Office Supplies,03-Dec-19,2,7,$36.3
+,,,,,,Technology,03-Dec-19,2,2,$660.0
+US-2019-161613,Matt Connell,Corporate,01-Dec-19,Texas,77070,Furniture,03-Dec-19,2,3,$674.1
+CA-2019-103590,Jeremy Lonsdale,Consumer,30-Nov-19,New York,10550,Office Supplies,04-Dec-19,4,4,$62.3
+CA-2019-146843,Philip Brown,Consumer,30-Nov-19,Arizona,85323,Office Supplies,06-Dec-19,6,7,$48.0
+,,,,,,Technology,06-Dec-19,6,4,$102.2
+CA-2019-148425,Randy Ferguson,Corporate,30-Nov-19,Florida,32839,Office Supplies,04-Dec-19,4,9,$6.6
+CA-2019-136280,Corey-Lock,Consumer,29-Nov-19,Pennsylvania,19143,Office Supplies,06-Dec-19,7,2,$5.0
+CA-2019-153983,Alan Hwang,Consumer,29-Nov-19,California,94122,Office Supplies,06-Dec-19,7,5,$30.4
+,,,,,,Technology,06-Dec-19,7,2,$575.9
+US-2019-111353,Philip Brown,Consumer,29-Nov-19,New York,10009,Office Supplies,06-Dec-19,7,2,$25.1
+US-2019-134712,Bill Stewart,Corporate,29-Nov-19,Illinois,60076,Office Supplies,04-Dec-19,5,2,$12.6
+CA-2019-101560,Chris Selesnick,Corporate,28-Nov-19,South Carolina,29203,Furniture,01-Dec-19,3,5,$397.6
+,,,,,,Office Supplies,01-Dec-19,3,14,$144.7
+CA-2019-105249,Duane Huffman,Home Office,28-Nov-19,California,94122,Furniture,28-Nov-19,0,4,$411.3
+,,,,,,Office Supplies,28-Nov-19,0,6,$48.8
+CA-2019-121167,Mary O'Rourke,Consumer,28-Nov-19,New York,11520,Office Supplies,30-Nov-19,2,2,$17.2
+CA-2019-121629,Brian Thompson,Consumer,28-Nov-19,Texas,77041,Technology,02-Dec-19,4,5,$998.9
+CA-2019-159800,Sheri Gordon,Consumer,28-Nov-19,California,94109,Office Supplies,01-Dec-19,3,3,$43.7
+,,,,,,Technology,01-Dec-19,3,7,$139.9
+CA-2019-163013,Bart Folk,Consumer,28-Nov-19,Alabama,36116,Office Supplies,04-Dec-19,6,3,$14.7
+US-2019-120175,Matthew Clasen,Corporate,28-Nov-19,Indiana,47374,Office Supplies,03-Dec-19,5,6,$64.0
+CA-2019-119032,Maxwell Schwartz,Consumer,27-Nov-19,New York,10035,Office Supplies,03-Dec-19,6,2,$3.8
+CA-2019-167486,Jack O'Briant,Corporate,27-Nov-19,New York,14215,Furniture,01-Dec-19,4,5,$199.9
+CA-2019-124730,Lynn Smith,Consumer,26-Nov-19,New York,13501,Office Supplies,26-Nov-19,0,20,$134.7
+,,,,,,Technology,26-Nov-19,0,4,$280.0
+CA-2019-141110,Luke Schmidt,Corporate,26-Nov-19,California,93727,Office Supplies,01-Dec-19,5,9,$67.1
+CA-2019-168984,Natalie Webber,Consumer,26-Nov-19,Oregon,97224,Office Supplies,02-Dec-19,6,8,$684.6
+,,,,,,Technology,02-Dec-19,6,4,$438.3
+US-2019-147606,Joel Eaton,Consumer,26-Nov-19,Texas,77070,Furniture,01-Dec-19,5,5,$19.3
+US-2019-147648,Lindsay Shagiari,Home Office,26-Nov-19,California,94109,Office Supplies,01-Dec-19,5,2,$82.0
+CA-2019-119151,Mike Pelletier,Home Office,25-Nov-19,New York,10009,Furniture,29-Nov-19,4,3,$276.0
+,,,,,,Office Supplies,29-Nov-19,4,4,"$1,117.9"
+CA-2019-122588,Andy Reiter,Consumer,25-Nov-19,Rhode Island,02895,Furniture,27-Nov-19,2,2,$53.0
+CA-2019-127446,Matt Collister,Corporate,25-Nov-19,Texas,76017,Furniture,30-Nov-19,5,8,"$1,224.8"
+,,,,,,Office Supplies,30-Nov-19,5,6,$24.1
+,,,,,,Technology,30-Nov-19,5,3,$24.7
+CA-2019-164721,Laurel Workman,Corporate,25-Nov-19,California,94513,Furniture,27-Nov-19,2,3,$23.9
+,,,,,,Office Supplies,27-Nov-19,2,10,$347.6
+US-2019-107993,Sanjit Engle,Consumer,25-Nov-19,Oregon,97477,Office Supplies,30-Nov-19,5,7,$51.0
+US-2019-144078,Richard Bierner,Consumer,25-Nov-19,California,90004,Furniture,29-Nov-19,4,4,$725.3
+,,,,,,Office Supplies,29-Nov-19,4,3,$7.4
+,,,,,,Technology,29-Nov-19,4,5,$539.9
+CA-2019-100762,Nat Gilpin,Corporate,24-Nov-19,Michigan,49201,Office Supplies,29-Nov-19,5,11,$508.6
+CA-2019-102295,Erica Hackney,Consumer,24-Nov-19,California,95823,Furniture,26-Nov-19,2,1,$120.7
+CA-2019-105984,Muhammed Yedwab,Corporate,24-Nov-19,Ohio,43229,Furniture,24-Nov-19,0,3,$611.1
+,,,,,,Technology,24-Nov-19,0,5,"$1,050.0"
+CA-2019-111360,Alyssa Tate,Home Office,24-Nov-19,Ohio,44312,Office Supplies,30-Nov-19,6,3,$5.7
+CA-2019-115973,Nathan Gelder,Consumer,24-Nov-19,Ohio,45231,Office Supplies,26-Nov-19,2,1,$2.6
+CA-2019-122217,Harold Pawlan,Home Office,24-Nov-19,Virginia,23464,Furniture,29-Nov-19,5,5,$111.2
+CA-2019-127131,Harold Ryan,Corporate,24-Nov-19,Washington,98103,Office Supplies,30-Nov-19,6,19,$721.5
+CA-2019-153850,Thea Hendricks,Consumer,24-Nov-19,Ohio,43615,Furniture,29-Nov-19,5,7,$35.2
+,,,,,,Technology,29-Nov-19,5,4,"$1,502.4"
+CA-2019-158540,Vivek Gonzalez,Consumer,24-Nov-19,California,92037,Furniture,26-Nov-19,2,4,$151.7
+CA-2019-163034,Darren Koutras,Consumer,24-Nov-19,Illinois,60610,Office Supplies,28-Nov-19,4,5,$646.2
+CA-2019-167360,Richard Bierner,Consumer,24-Nov-19,Missouri,63116,Technology,29-Nov-19,5,7,$111.8
+CA-2019-110352,Emily Ducich,Home Office,23-Nov-19,Texas,77036,Office Supplies,29-Nov-19,6,2,$23.7
+CA-2019-120544,Saphhira Shifley,Corporate,23-Nov-19,Texas,75150,Furniture,27-Nov-19,4,2,$6.4
+,,,,,,Office Supplies,27-Nov-19,4,3,$34.2
+,,,,,,Technology,27-Nov-19,4,7,$5.5
+CA-2019-139283,Bobby Trafton,Consumer,23-Nov-19,Michigan,48227,Office Supplies,27-Nov-19,4,3,$14.7
+CA-2019-149055,Phillip Breyer,Corporate,23-Nov-19,Pennsylvania,19134,Office Supplies,28-Nov-19,5,3,$62.8
+CA-2019-159625,Sally Matthias,Consumer,23-Nov-19,Arizona,85254,Office Supplies,28-Nov-19,5,3,$23.5
+US-2019-143721,Damala Kotsonis,Corporate,23-Nov-19,Texas,77095,Furniture,26-Nov-19,3,2,$155.4
+US-2019-157385,Sanjit Chand,Consumer,23-Nov-19,California,90004,Furniture,25-Nov-19,2,7,$985.4
+,,,,,,Office Supplies,25-Nov-19,2,3,$21.8
+,,,,,,Technology,25-Nov-19,2,1,$30.0
+CA-2019-105340,Evan Henry,Consumer,22-Nov-19,Texas,77506,Office Supplies,25-Nov-19,3,1,$6.9
+CA-2019-125682,Robert Barroso,Corporate,22-Nov-19,Georgia,30318,Office Supplies,25-Nov-19,3,2,$10.0
+CA-2019-129091,Ruben Ausman,Corporate,22-Nov-19,Georgia,31907,Office Supplies,27-Nov-19,5,13,"$1,022.6"
+CA-2019-135090,Susan Pistek,Consumer,22-Nov-19,California,90036,Office Supplies,26-Nov-19,4,9,$53.8
+US-2019-112200,Tony Chapman,Home Office,22-Nov-19,Illinois,60440,Office Supplies,28-Nov-19,6,5,$10.0
+CA-2019-102274,Dave Hallsten,Corporate,21-Nov-19,Kentucky,40475,Office Supplies,26-Nov-19,5,12,$828.5
+,,,,,,Technology,26-Nov-19,5,1,$37.0
+CA-2019-103401,Georgia Rosenberg,Corporate,21-Nov-19,California,94110,Office Supplies,26-Nov-19,5,2,$13.0
+CA-2019-154781,Steve Carroll,Home Office,21-Nov-19,California,94110,Office Supplies,26-Nov-19,5,2,$6.6
+,,,,,,Technology,26-Nov-19,5,1,$95.0
+US-2019-168501,Jason Klamczynski,Corporate,21-Nov-19,Texas,75220,Office Supplies,27-Nov-19,6,1,$1.6
+,,,,,,Technology,27-Nov-19,6,5,$268.0
+CA-2019-140396,Katharine Harms,Corporate,20-Nov-19,New York,10024,Office Supplies,25-Nov-19,5,10,$73.6
+,,,,,,Technology,25-Nov-19,5,6,$833.9
+CA-2019-100972,Dennis Bolton,Home Office,19-Nov-19,Utah,84106,Office Supplies,24-Nov-19,5,3,$166.4
+CA-2019-128062,Alan Dominguez,Home Office,19-Nov-19,Pennsylvania,19134,Office Supplies,22-Nov-19,3,1,$5.9
+CA-2019-144624,John Murray,Consumer,19-Nov-19,New York,14701,Technology,23-Nov-19,4,7,"$4,548.8"
+CA-2019-150518,Mitch Webber,Consumer,19-Nov-19,Minnesota,55433,Office Supplies,24-Nov-19,5,4,$221.2
+,,,,,,Technology,24-Nov-19,5,3,$282.0
+CA-2019-158274,Robert Marley,Home Office,19-Nov-19,Louisiana,71203,Technology,24-Nov-19,5,11,$682.9
+US-2019-123183,Georgia Rosenberg,Corporate,19-Nov-19,Delaware,19805,Furniture,25-Nov-19,6,6,"$1,025.9"
+,,,,,,Office Supplies,25-Nov-19,6,15,$245.5
+US-2019-149034,Ruben Dartt,Consumer,19-Nov-19,Pennsylvania,19120,Technology,21-Nov-19,2,1,$47.5
+CA-2019-104829,John Grady,Corporate,18-Nov-19,Utah,84604,Office Supplies,21-Nov-19,3,7,$22.0
+CA-2019-115336,Ann Blume,Corporate,18-Nov-19,Illinois,60623,Office Supplies,25-Nov-19,7,5,$14.5
+CA-2019-124702,Maya Herman,Corporate,18-Nov-19,Washington,98105,Furniture,25-Nov-19,7,6,$867.7
+CA-2019-133809,MaryBeth Skach,Consumer,18-Nov-19,Ohio,45014,Office Supplies,23-Nov-19,5,8,$11.8
+,,,,,,Technology,23-Nov-19,5,2,$9.6
+CA-2019-141173,Julie Creighton,Corporate,18-Nov-19,Minnesota,55407,Office Supplies,20-Nov-19,2,5,$67.2
+CA-2019-161032,Michael Kennedy,Corporate,18-Nov-19,Wisconsin,53132,Furniture,23-Nov-19,5,3,$392.9
+CA-2019-163468,Joe Kamberova,Consumer,18-Nov-19,Illinois,60016,Furniture,21-Nov-19,3,12,$724.8
+,,,,,,Office Supplies,21-Nov-19,3,8,$384.6
+CA-2019-164210,Pierre Wener,Consumer,18-Nov-19,Colorado,80027,Furniture,20-Nov-19,2,2,$146.0
+,,,,,,Office Supplies,20-Nov-19,2,4,$35.8
+US-2019-159926,Carlos Soltero,Consumer,18-Nov-19,Pennsylvania,19140,Furniture,22-Nov-19,4,3,$60.3
+,,,,,,Office Supplies,22-Nov-19,4,5,$129.7
+,,,,,,Technology,22-Nov-19,4,6,$540.0
+CA-2019-101833,Frank Gastineau,Home Office,17-Nov-19,New York,10024,Office Supplies,22-Nov-19,5,3,$34.4
+CA-2019-119375,Yoseph Carroll,Corporate,17-Nov-19,Delaware,19711,Furniture,22-Nov-19,5,3,$124.4
+,,,,,,Office Supplies,22-Nov-19,5,12,"$2,992.1"
+CA-2019-128209,Greg Tran,Consumer,17-Nov-19,New York,14215,Furniture,22-Nov-19,5,10,"$4,007.8"
+,,,,,,Office Supplies,22-Nov-19,5,3,"$2,152.8"
+CA-2019-130869,Cassandra Brandow,Consumer,17-Nov-19,Texas,75104,Office Supplies,21-Nov-19,4,3,$7.1
+CA-2019-140662,Thomas Seio,Corporate,17-Nov-19,California,94109,Office Supplies,19-Nov-19,2,10,$975.4
+,,,,,,Technology,19-Nov-19,2,2,$100.0
+CA-2019-145926,Mark Packer,Home Office,17-Nov-19,Minnesota,56560,Furniture,21-Nov-19,4,5,$479.9
+CA-2019-159835,Randy Bradley,Consumer,17-Nov-19,Pennsylvania,19143,Furniture,24-Nov-19,7,5,$657.9
+,,,,,,Office Supplies,24-Nov-19,7,2,$12.4
+CA-2019-119144,Justin Deggeller,Corporate,16-Nov-19,California,90008,Furniture,18-Nov-19,2,3,$306.0
+,,,,,,Office Supplies,18-Nov-19,2,3,$344.9
+,,,,,,Technology,18-Nov-19,2,4,$80.0
+CA-2019-149643,Rick Huthwaite,Home Office,16-Nov-19,Kansas,66502,Technology,20-Nov-19,4,2,$274.0
+CA-2019-160066,Adam Hart,Corporate,16-Nov-19,California,92646,Office Supplies,22-Nov-19,6,2,$5.2
+US-2019-139500,Alan Barnes,Consumer,16-Nov-19,Illinois,62521,Furniture,20-Nov-19,4,2,$37.3
+US-2019-147704,Steven Roelle,Home Office,16-Nov-19,Indiana,47401,Office Supplies,21-Nov-19,5,20,$308.6
+CA-2019-116407,Jamie Frazer,Consumer,15-Nov-19,Tennessee,37604,Office Supplies,21-Nov-19,6,9,$362.2
+CA-2019-127558,Shahid Shariari,Consumer,15-Nov-19,California,90008,Furniture,18-Nov-19,3,3,$10.1
+,,,,,,Office Supplies,18-Nov-19,3,2,$20.5
+,,,,,,Technology,18-Nov-19,3,3,$772.5
+CA-2019-128622,Scott Cohen,Corporate,15-Nov-19,California,94110,Office Supplies,17-Nov-19,2,3,$11.0
+CA-2019-128888,Peter Bühler,Consumer,15-Nov-19,Texas,77095,Office Supplies,22-Nov-19,7,9,$604.7
+CA-2019-125556,Maris LaWare,Consumer,14-Nov-19,Connecticut,06824,Office Supplies,16-Nov-19,2,10,$43.8
+,,,,,,Technology,16-Nov-19,2,7,$832.9
+CA-2019-151554,Candace McMahon,Corporate,14-Nov-19,Texas,77506,Office Supplies,15-Nov-19,1,4,$20.7
+CA-2019-161634,Chris Cortes,Consumer,14-Nov-19,Virginia,23320,Office Supplies,20-Nov-19,6,5,$32.4
+CA-2019-162362,Jeremy Lonsdale,Consumer,14-Nov-19,Michigan,48640,Office Supplies,18-Nov-19,4,7,$24.2
+CA-2019-166989,Robert Marley,Home Office,14-Nov-19,New York,10011,Furniture,18-Nov-19,4,2,$69.3
+,,,,,,Office Supplies,18-Nov-19,4,2,$11.4
+CA-2019-122609,Darren Powers,Consumer,12-Nov-19,Texas,75007,Furniture,18-Nov-19,6,3,$25.1
+,,,,,,Technology,18-Nov-19,6,2,$128.0
+CA-2019-151078,Roy Französisch,Consumer,12-Nov-19,Texas,78207,Office Supplies,12-Nov-19,0,4,$49.6
+CA-2019-151295,Joseph Airdo,Consumer,12-Nov-19,California,90045,Furniture,16-Nov-19,4,3,$629.1
+,,,,,,Office Supplies,16-Nov-19,4,2,$12.0
+CA-2019-164910,Denise Monton,Corporate,12-Nov-19,North Carolina,28806,Office Supplies,17-Nov-19,5,3,$7.9
+US-2019-159618,Darren Budd,Corporate,12-Nov-19,Texas,77036,Furniture,16-Nov-19,4,1,$68.0
+,,,,,,Office Supplies,16-Nov-19,4,14,$55.6
+,,,,,,Technology,16-Nov-19,4,3,$79.5
+CA-2019-105270,Arthur Prichep,Consumer,11-Nov-19,California,90008,Furniture,18-Nov-19,7,1,$112.6
+,,,,,,Office Supplies,18-Nov-19,7,3,$30.5
+CA-2019-105893,Pete Kriz,Consumer,11-Nov-19,Wisconsin,53711,Office Supplies,18-Nov-19,7,6,$665.9
+CA-2019-128524,Mary Zewe,Corporate,11-Nov-19,Washington,98115,Office Supplies,13-Nov-19,2,3,"$2,056.6"
+,,,,,,Technology,13-Nov-19,2,7,$102.1
+CA-2019-140732,Matt Abelman,Home Office,11-Nov-19,California,90004,Office Supplies,13-Nov-19,2,6,$131.7
+,,,,,,Technology,13-Nov-19,2,9,$575.9
+CA-2019-155796,Tom Stivers,Corporate,11-Nov-19,Pennsylvania,19601,Furniture,15-Nov-19,4,6,$545.9
+CA-2019-163419,Tracy Zic,Consumer,11-Nov-19,Colorado,80027,Furniture,14-Nov-19,3,5,$603.9
+,,,,,,Office Supplies,14-Nov-19,3,1,$3.4
+,,,,,,Technology,14-Nov-19,3,2,$560.0
+CA-2019-165309,Karen Daniels,Consumer,11-Nov-19,Texas,77095,Office Supplies,15-Nov-19,4,22,"$1,249.8"
+,,,,,,Technology,15-Nov-19,4,5,$389.7
+US-2019-140914,Brosina Hoffman,Consumer,11-Nov-19,Illinois,60653,Furniture,15-Nov-19,4,6,$808.9
+US-2019-143287,Kristina Nunn,Home Office,11-Nov-19,New York,10801,Office Supplies,17-Nov-19,6,11,$277.6
+CA-2019-121006,Sam Craven,Consumer,10-Nov-19,Michigan,48640,Furniture,16-Nov-19,6,3,$563.9
+,,,,,,Office Supplies,16-Nov-19,6,14,$630.9
+CA-2019-158372,Ruben Dartt,Consumer,10-Nov-19,California,92037,Furniture,16-Nov-19,6,7,$93.1
+,,,,,,Office Supplies,16-Nov-19,6,16,$102.1
+,,,,,,Technology,16-Nov-19,6,9,$612.5
+CA-2019-103219,Benjamin Farhat,Home Office,09-Nov-19,New York,10035,Furniture,13-Nov-19,4,9,$56.5
+CA-2019-144666,Jeremy Pistek,Consumer,09-Nov-19,California,94110,Furniture,11-Nov-19,2,2,$222.7
+,,,,,,Office Supplies,11-Nov-19,2,21,$590.9
+,,,,,,Technology,11-Nov-19,2,4,$704.0
+US-2019-126340,Emily Burns,Consumer,08-Nov-19,California,96003,Technology,14-Nov-19,6,3,$333.6
+CA-2019-120278,Maribeth Schnelling,Consumer,07-Nov-19,Wisconsin,54401,Office Supplies,12-Nov-19,5,14,$317.5
+CA-2019-123323,Lena Hernandez,Consumer,07-Nov-19,California,94110,Office Supplies,12-Nov-19,5,7,$123.1
+CA-2019-123498,Tamara Chand,Corporate,07-Nov-19,Texas,77041,Office Supplies,09-Nov-19,2,6,$100.4
+CA-2019-146990,Bart Pistole,Corporate,07-Nov-19,New York,10024,Office Supplies,08-Nov-19,1,7,$36.1
+CA-2019-159310,Steven Cartwright,Consumer,07-Nov-19,Texas,77070,Furniture,12-Nov-19,5,4,$683.1
+,,,,,,Office Supplies,12-Nov-19,5,10,$42.2
+US-2019-139640,Troy Blackwell,Consumer,07-Nov-19,Oregon,97206,Office Supplies,11-Nov-19,4,9,$146.7
+CA-2019-120950,George Ashbrook,Consumer,06-Nov-19,Georgia,31907,Office Supplies,11-Nov-19,5,6,$43.7
+CA-2019-109134,Deanra Eno,Home Office,05-Nov-19,California,90008,Furniture,10-Nov-19,5,6,$20.0
+CA-2019-114251,Maribeth Dona,Consumer,05-Nov-19,Pennsylvania,19143,Furniture,10-Nov-19,5,2,$273.6
+,,,,,,Office Supplies,10-Nov-19,5,8,"$1,093.3"
+,,,,,,Technology,10-Nov-19,5,7,$110.0
+CA-2019-133634,Steven Roelle,Home Office,05-Nov-19,Virginia,22204,Technology,10-Nov-19,5,3,$47.8
+US-2019-114377,Barry Gonzalez,Consumer,05-Nov-19,Virginia,23666,Furniture,05-Nov-19,0,5,$149.9
+CA-2019-121286,Odella Nelson,Corporate,04-Nov-19,North Carolina,27511,Office Supplies,08-Nov-19,4,8,$66.6
+CA-2019-125829,William Brown,Consumer,04-Nov-19,California,90045,Furniture,11-Nov-19,7,4,$573.7
+,,,,,,Office Supplies,11-Nov-19,7,6,$41.4
+,,,,,,Technology,11-Nov-19,7,11,"$1,114.3"
+CA-2019-132227,Sam Zeldin,Home Office,04-Nov-19,New York,10011,Office Supplies,10-Nov-19,6,4,$52.1
+CA-2019-149244,MaryBeth Skach,Consumer,04-Nov-19,California,92037,Furniture,08-Nov-19,4,2,$35.3
+CA-2019-164973,Nathan Mautz,Home Office,04-Nov-19,New York,10024,Furniture,09-Nov-19,5,1,$135.9
+,,,,,,Office Supplies,09-Nov-19,5,1,$43.6
+,,,,,,Technology,09-Nov-19,5,12,"$4,627.9"
+US-2019-134187,Tiffany House,Corporate,04-Nov-19,California,90805,Office Supplies,11-Nov-19,7,1,$2.9
+CA-2019-119529,Denise Monton,Corporate,03-Nov-19,New Jersey,07050,Office Supplies,05-Nov-19,2,2,$5.8
+CA-2019-121573,Speros Goranitis,Consumer,03-Nov-19,New York,10009,Office Supplies,07-Nov-19,4,4,$56.8
+,,,,,,Technology,07-Nov-19,4,4,$784.0
+CA-2019-137589,Maxwell Schwartz,Consumer,03-Nov-19,Pennsylvania,17602,Office Supplies,08-Nov-19,5,3,$286.3
+CA-2019-146731,Annie Thurman,Consumer,03-Nov-19,Tennessee,37211,Office Supplies,08-Nov-19,5,11,$147.3
+CA-2019-153619,Tracy Collins,Home Office,03-Nov-19,California,90049,Office Supplies,03-Nov-19,0,4,$6.7
+CA-2019-155593,Resi Pölking,Consumer,03-Nov-19,Connecticut,06824,Office Supplies,08-Nov-19,5,3,$11.6
+CA-2019-165764,Shahid Hopkins,Consumer,03-Nov-19,North Carolina,28540,Furniture,07-Nov-19,4,9,"$1,355.4"
+,,,,,,Office Supplies,07-Nov-19,4,9,$40.3
+US-2019-124625,Stephanie Phelps,Corporate,03-Nov-19,Nebraska,68104,Technology,07-Nov-19,4,3,$90.0
+CA-2019-107454,Roger Demir,Consumer,02-Nov-19,New York,10024,Furniture,06-Nov-19,4,6,$89.3
+,,,,,,Office Supplies,06-Nov-19,4,7,$34.9
+CA-2019-115889,Shahid Hopkins,Consumer,02-Nov-19,California,94122,Office Supplies,06-Nov-19,4,2,$362.9
+,,,,,,Technology,06-Nov-19,4,2,$46.4
+CA-2019-120670,Julie Kriz,Home Office,02-Nov-19,Florida,33311,Technology,06-Nov-19,4,10,$799.9
+CA-2019-129147,Liz Carlisle,Consumer,02-Nov-19,Ohio,44256,Office Supplies,06-Nov-19,4,3,$19.2
+,,,,,,Technology,06-Nov-19,4,13,$590.2
+CA-2019-134726,Steven Ward,Corporate,02-Nov-19,Washington,98115,Technology,07-Nov-19,5,3,$94.7
+CA-2019-148782,Patrick O'Brill,Consumer,02-Nov-19,Texas,75061,Technology,07-Nov-19,5,3,$88.8
+CA-2019-102673,Ken Heidel,Corporate,01-Nov-19,North Carolina,28205,Office Supplies,05-Nov-19,4,20,$65.6
+,,,,,,Technology,05-Nov-19,4,9,$978.8
+CA-2019-114195,Erin Ashbrook,Corporate,01-Nov-19,Ohio,45040,Furniture,03-Nov-19,2,2,$68.7
+,,,,,,Office Supplies,03-Nov-19,2,5,$25.6
+CA-2019-126907,Suzanne McNair,Corporate,01-Nov-19,Illinois,60610,Office Supplies,08-Nov-19,7,3,$15.7
+CA-2019-134313,Russell Applegate,Consumer,01-Nov-19,Colorado,80219,Office Supplies,07-Nov-19,6,3,$43.2
+,,,,,,Technology,07-Nov-19,6,4,"$1,984.0"
+CA-2019-139423,Deirdre Greer,Corporate,01-Nov-19,New Jersey,07050,Office Supplies,05-Nov-19,4,2,$76.1
+CA-2019-148915,Natalie DeCherney,Consumer,01-Nov-19,Oregon,97206,Office Supplies,05-Nov-19,4,5,$443.9
+,,,,,,Technology,05-Nov-19,4,3,$156.0
+CA-2019-152562,Jack O'Briant,Corporate,01-Nov-19,Kentucky,40475,Office Supplies,08-Nov-19,7,5,$75.2
+CA-2019-168305,Paul Lucas,Home Office,01-Nov-19,California,90049,Office Supplies,08-Nov-19,7,8,$65.8
+US-2019-137155,Daniel Lacy,Consumer,01-Nov-19,New York,11561,Furniture,05-Nov-19,4,6,$31.7
+,,,,,,Office Supplies,05-Nov-19,4,6,$701.9
+CA-2019-106439,Greg Guthrie,Corporate,31-Oct-19,California,90049,Furniture,04-Nov-19,4,3,$146.4
+,,,,,,Office Supplies,04-Nov-19,4,33,$609.7
+,,,,,,Technology,04-Nov-19,4,9,$251.9
+CA-2019-108609,Anthony Jacobs,Corporate,31-Oct-19,Ohio,44052,Furniture,02-Nov-19,2,8,"$1,421.7"
+CA-2019-145387,Anne McFarland,Consumer,31-Oct-19,Rhode Island,02920,Furniture,02-Nov-19,2,11,"$2,023.0"
+,,,,,,Office Supplies,02-Nov-19,2,9,$93.5
+US-2019-120313,Nancy Lomonaco,Home Office,31-Oct-19,California,94110,Technology,02-Nov-19,2,2,$73.6
+US-2019-167262,Amy Cox,Consumer,31-Oct-19,Arizona,85323,Technology,03-Nov-19,3,8,$742.3
+CA-2019-154627,Sue Ann Reed,Consumer,29-Oct-19,Illinois,60610,Technology,31-Oct-19,2,6,"$2,736.0"
+CA-2019-166590,Noah Childs,Corporate,29-Oct-19,Indiana,47201,Office Supplies,02-Nov-19,4,2,$75.9
+,,,,,,Technology,02-Nov-19,4,2,$2.0
+CA-2019-101931,Todd Sumrall,Corporate,28-Oct-19,California,90049,Furniture,31-Oct-19,3,6,$617.0
+,,,,,,Office Supplies,31-Oct-19,3,11,$635.6
+CA-2019-107769,Bill Tyler,Corporate,28-Oct-19,Kansas,67846,Technology,01-Nov-19,4,2,$258.0
+CA-2019-148285,Ross DeVincentis,Home Office,27-Oct-19,North Carolina,28314,Office Supplies,01-Nov-19,5,5,$22.3
+CA-2019-162278,Angele Hood,Consumer,26-Oct-19,Washington,98105,Furniture,30-Oct-19,4,4,$63.9
+,,,,,,Technology,30-Oct-19,4,5,$384.0
+CA-2019-139542,Evan Henry,Consumer,25-Oct-19,Pennsylvania,19120,Office Supplies,29-Oct-19,4,3,$13.7
+,,,,,,Technology,29-Oct-19,4,3,$40.8
+US-2019-158400,Aaron Hawkins,Corporate,25-Oct-19,California,94109,Office Supplies,28-Oct-19,3,4,$49.4
+CA-2019-108707,Daniel Byrd,Home Office,24-Oct-19,Florida,33311,Office Supplies,29-Oct-19,5,2,$10.4
+CA-2019-113047,Arthur Prichep,Consumer,24-Oct-19,South Carolina,29730,Office Supplies,24-Oct-19,0,3,$11.9
+CA-2019-130729,Allen Armold,Consumer,24-Oct-19,California,91730,Office Supplies,29-Oct-19,5,3,$34.3
+CA-2019-110072,Maureen Gastineau,Home Office,22-Oct-19,Ohio,43055,Furniture,28-Oct-19,6,4,$93.9
+CA-2019-151967,Nicole Brennan,Corporate,22-Oct-19,Louisiana,71111,Furniture,26-Oct-19,4,4,$129.9
+CA-2019-100916,Frank Hawley,Corporate,21-Oct-19,Virginia,23602,Furniture,26-Oct-19,5,4,$591.3
+,,,,,,Office Supplies,26-Oct-19,5,6,$197.5
+CA-2019-142587,Tracy Blumstein,Consumer,21-Oct-19,Ohio,45014,Furniture,22-Oct-19,1,3,$409.6
+,,,,,,Office Supplies,22-Oct-19,1,4,$121.8
+CA-2019-169852,Sylvia Foulston,Corporate,21-Oct-19,California,92024,Office Supplies,26-Oct-19,5,3,$36.4
+CA-2019-137092,Lindsay Shagiari,Home Office,20-Oct-19,Illinois,60653,Office Supplies,22-Oct-19,2,6,$542.2
+,,,,,,Technology,22-Oct-19,2,4,$320.0
+CA-2019-146703,Patrick O'Donnell,Consumer,20-Oct-19,Michigan,48185,Office Supplies,25-Oct-19,5,4,$212.0
+CA-2019-169684,Fred Hopkins,Corporate,20-Oct-19,Tennessee,37918,Furniture,23-Oct-19,3,3,$328.6
+,,,,,,Office Supplies,23-Oct-19,3,3,$98.4
+CA-2019-100867,Eugene Hildebrand,Home Office,19-Oct-19,California,90712,Technology,24-Oct-19,5,6,$321.6
+CA-2019-117317,Jeremy Farry,Consumer,19-Oct-19,California,90032,Office Supplies,19-Oct-19,0,3,$13.4
+CA-2019-155264,Rachel Payne,Corporate,19-Oct-19,California,94110,Office Supplies,22-Oct-19,3,15,$188.5
+,,,,,,Technology,22-Oct-19,3,3,$117.6
+CA-2019-110408,Alan Schoenberger,Corporate,18-Oct-19,Alabama,36116,Furniture,20-Oct-19,2,6,$545.9
+,,,,,,Office Supplies,20-Oct-19,2,3,$276.0
+,,,,,,Technology,20-Oct-19,2,5,"$1,395.0"
+CA-2019-115084,Luke Schmidt,Corporate,18-Oct-19,Arkansas,71854,Furniture,22-Oct-19,4,6,$605.3
+CA-2019-138450,Edward Hooks,Corporate,18-Oct-19,Pennsylvania,19134,Office Supplies,22-Oct-19,4,16,$249.5
+CA-2019-143168,Ivan Gibson,Consumer,18-Oct-19,Washington,98103,Office Supplies,23-Oct-19,5,3,$63.3
+CA-2019-103086,Evan Bailliet,Consumer,17-Oct-19,Texas,77095,Furniture,19-Oct-19,2,2,$5.3
+CA-2019-124394,Tracy Blumstein,Consumer,17-Oct-19,Texas,77705,Office Supplies,22-Oct-19,5,5,$10.8
+,,,,,,Technology,22-Oct-19,5,3,$120.0
+US-2019-109456,Lynn Smith,Consumer,16-Oct-19,California,94110,Office Supplies,17-Oct-19,1,3,$14.4
+,,,,,,Technology,17-Oct-19,1,3,$180.0
+CA-2019-143182,Dan Lawera,Consumer,15-Oct-19,Florida,33012,Furniture,20-Oct-19,5,1,$15.4
+US-2019-122021,Anna Chung,Consumer,15-Oct-19,Ohio,44134,Furniture,17-Oct-19,2,2,$183.4
+,,,,,,Office Supplies,17-Oct-19,2,2,$8.0
+CA-2019-151330,Toby Carlisle,Consumer,14-Oct-19,Massachusetts,02149,Furniture,17-Oct-19,3,9,"$1,628.8"
+,,,,,,Office Supplies,17-Oct-19,3,7,$79.5
+,,,,,,Technology,17-Oct-19,3,3,$177.0
+CA-2019-163748,Hunter Glantz,Consumer,14-Oct-19,Texas,76106,Office Supplies,18-Oct-19,4,4,$3.2
+,,,,,,Technology,18-Oct-19,4,5,"$2,000.0"
+US-2019-146353,Jim Epp,Corporate,14-Oct-19,New Hampshire,03301,Office Supplies,16-Oct-19,2,9,$292.8
+US-2019-151015,Bradley Drucker,Consumer,14-Oct-19,Illinois,60653,Office Supplies,20-Oct-19,6,20,$344.3
+CA-2019-123316,Sibella Parks,Corporate,13-Oct-19,New York,10550,Office Supplies,17-Oct-19,4,3,$7.8
+CA-2019-132010,Michelle Arnett,Home Office,13-Oct-19,Virginia,23223,Office Supplies,15-Oct-19,2,12,$366.8
+,,,,,,Technology,15-Oct-19,2,2,$23.0
+CA-2019-151995,Zuschuss Carroll,Consumer,13-Oct-19,Washington,98026,Furniture,15-Oct-19,2,5,"$1,298.6"
+,,,,,,Office Supplies,15-Oct-19,2,8,$225.4
+,,,,,,Technology,15-Oct-19,2,2,$25.8
+CA-2019-164742,Marina Lichtenstein,Corporate,13-Oct-19,New Jersey,08701,Furniture,18-Oct-19,5,2,$246.0
+,,,,,,Office Supplies,18-Oct-19,5,1,$18.9
+CA-2019-139451,Duane Noonan,Consumer,12-Oct-19,California,94122,Office Supplies,16-Oct-19,4,6,$36.3
+US-2019-154655,Barry Pond,Corporate,12-Oct-19,Illinois,60623,Office Supplies,17-Oct-19,5,2,$22.2
+CA-2019-114314,Dorothy Badders,Corporate,11-Oct-19,Arkansas,72701,Furniture,15-Oct-19,4,4,$8.9
+,,,,,,Office Supplies,15-Oct-19,4,1,$7.3
+CA-2019-116834,Dean percer,Home Office,11-Oct-19,Washington,98115,Furniture,16-Oct-19,5,11,$63.5
+,,,,,,Technology,16-Oct-19,5,5,$345.0
+CA-2019-128538,Alan Shonely,Consumer,11-Oct-19,California,90278,Office Supplies,15-Oct-19,4,1,$7.6
+CA-2019-157924,Helen Andreada,Consumer,11-Oct-19,California,91104,Furniture,13-Oct-19,2,2,$433.6
+,,,,,,Office Supplies,13-Oct-19,2,4,$31.9
+US-2019-126571,Jill Fjeld,Consumer,11-Oct-19,Pennsylvania,19120,Office Supplies,15-Oct-19,4,5,$483.3
+CA-2019-103492,Craig Molinari,Corporate,10-Oct-19,Texas,77340,Office Supplies,15-Oct-19,5,6,$12.9
+,,,,,,Technology,15-Oct-19,5,13,"$1,475.9"
+CA-2019-140403,Tanja Norvell,Home Office,10-Oct-19,California,95336,Furniture,10-Oct-19,0,3,$122.4
+,,,,,,Office Supplies,10-Oct-19,0,2,$15.3
+CA-2019-150329,Shirley Daniels,Home Office,10-Oct-19,Arizona,85023,Furniture,14-Oct-19,4,7,$46.9
+US-2019-105137,Richard Bierner,Consumer,10-Oct-19,Ohio,43229,Office Supplies,10-Oct-19,0,2,$18.3
+,,,,,,Technology,10-Oct-19,0,2,$102.0
+US-2019-134054,Fred Chung,Corporate,10-Oct-19,New Mexico,87105,Office Supplies,10-Oct-19,0,7,$255.9
+CA-2019-137911,Bart Pistole,Corporate,09-Oct-19,North Carolina,28540,Office Supplies,15-Oct-19,6,2,$88.8
+CA-2019-138240,Shirley Jackson,Consumer,09-Oct-19,California,94122,Office Supplies,14-Oct-19,5,3,$144.6
+,,,,,,Technology,14-Oct-19,5,1,$16.0
+CA-2019-119977,Duane Noonan,Consumer,08-Oct-19,New York,10011,Office Supplies,13-Oct-19,5,4,$123.9
+CA-2019-142951,Jack Garza,Consumer,08-Oct-19,North Carolina,28205,Technology,08-Oct-19,0,3,$23.5
+CA-2019-117429,Mathew Reese,Home Office,07-Oct-19,Pennsylvania,19140,Furniture,13-Oct-19,6,5,$129.9
+CA-2019-132801,John Grady,Corporate,07-Oct-19,Texas,75217,Office Supplies,12-Oct-19,5,10,$107.4
+CA-2019-109680,Victoria Pisteka,Corporate,06-Oct-19,Indiana,46203,Office Supplies,09-Oct-19,3,2,$386.3
+CA-2019-110611,Joy Daniels,Consumer,06-Oct-19,Pennsylvania,19120,Office Supplies,13-Oct-19,7,5,$83.9
+CA-2019-132542,Alice McCarthy,Corporate,06-Oct-19,Nebraska,68104,Office Supplies,08-Oct-19,2,2,$15.4
+CA-2019-134677,Xylona Preis,Consumer,06-Oct-19,California,92024,Technology,10-Oct-19,4,3,$9.1
+CA-2019-152233,Keith Herrera,Consumer,05-Oct-19,California,91767,Technology,06-Oct-19,1,2,$100.0
+CA-2019-152422,Brian Derr,Consumer,05-Oct-19,Ohio,43229,Office Supplies,10-Oct-19,5,5,$91.9
+CA-2019-102085,Joy Daniels,Consumer,04-Oct-19,Washington,98115,Office Supplies,09-Oct-19,5,4,$29.2
+CA-2019-153479,David Flashing,Consumer,04-Oct-19,California,94591,Office Supplies,08-Oct-19,4,7,$110.1
+CA-2019-166891,Chris Cortes,Consumer,04-Oct-19,New York,10024,Furniture,06-Oct-19,2,5,$589.4
+CA-2019-108903,Denny Ordway,Consumer,03-Oct-19,Ohio,43229,Office Supplies,03-Oct-19,0,7,$70.5
+,,,,,,Technology,03-Oct-19,0,3,$142.5
+CA-2019-120775,Russell D'Ascenzo,Consumer,03-Oct-19,Texas,75217,Furniture,07-Oct-19,4,3,$31.8
+,,,,,,Office Supplies,07-Oct-19,4,12,$26.1
+CA-2019-153976,Beth Paige,Consumer,03-Oct-19,Illinois,60201,Furniture,08-Oct-19,5,3,$258.3
+CA-2019-157882,Allen Rosenblatt,Corporate,03-Oct-19,California,90036,Furniture,08-Oct-19,5,4,$265.8
+US-2019-155817,Sara Luxemburg,Home Office,03-Oct-19,North Carolina,27707,Office Supplies,09-Oct-19,6,5,$67.8
+CA-2019-108189,Erin Smith,Corporate,02-Oct-19,Arizona,85281,Office Supplies,05-Oct-19,3,12,$42.2
+,,,,,,Technology,05-Oct-19,3,6,$555.9
+US-2019-132745,Neil Französisch,Home Office,01-Oct-19,Nevada,89502,Office Supplies,05-Oct-19,4,1,$4.7
+CA-2019-102008,Russell Applegate,Consumer,30-Sept-19,New York,10011,Office Supplies,04-Oct-19,4,1,$48.9
+CA-2019-137351,Doug Bickford,Consumer,30-Sept-19,Washington,98105,Office Supplies,04-Oct-19,4,7,$43.2
+CA-2019-140886,Kelly Williams,Consumer,30-Sept-19,Tennessee,37042,Office Supplies,04-Oct-19,4,6,$69.2
+CA-2019-141649,Dario Medina,Corporate,30-Sept-19,Ohio,45014,Office Supplies,30-Sept-19,0,6,$795.4
+CA-2019-159478,Maya Herman,Corporate,30-Sept-19,New York,10035,Furniture,06-Oct-19,6,3,$15.2
+US-2019-167633,Ben Wallace,Consumer,30-Sept-19,Florida,33437,Office Supplies,05-Oct-19,5,3,$15.6
+CA-2019-111962,Evan Bailliet,Consumer,29-Sept-19,Washington,98115,Office Supplies,04-Oct-19,5,7,$817.8
+CA-2019-122931,Suzanne McNair,Corporate,29-Sept-19,Pennsylvania,19134,Furniture,03-Oct-19,4,3,$476.4
+,,,,,,Office Supplies,03-Oct-19,4,24,"$1,882.2"
+CA-2019-124856,Lisa DeCherney,Consumer,29-Sept-19,New York,10011,Furniture,03-Oct-19,4,4,$117.4
+,,,,,,Office Supplies,03-Oct-19,4,14,"$1,492.0"
+CA-2019-126683,Paul Prost,Home Office,29-Sept-19,Washington,98115,Furniture,01-Oct-19,2,11,"$2,355.0"
+CA-2019-146969,Arthur Prichep,Consumer,29-Sept-19,California,90045,Furniture,03-Oct-19,4,2,$204.6
+,,,,,,Office Supplies,03-Oct-19,4,6,$77.4
+,,,,,,Technology,03-Oct-19,4,2,$686.3
+CA-2019-107153,George Zrebassa,Corporate,28-Sept-19,Massachusetts,01841,Office Supplies,03-Oct-19,5,3,$46.3
+CA-2019-114335,Xylona Preis,Consumer,28-Sept-19,Florida,33021,Furniture,03-Oct-19,5,4,$337.1
+CA-2019-125136,Keith Dawkins,Corporate,28-Sept-19,North Carolina,28314,Office Supplies,03-Oct-19,5,10,$106.9
+CA-2019-120887,Thomas Seio,Corporate,27-Sept-19,New Jersey,07601,Furniture,03-Oct-19,6,3,$87.5
+US-2019-133130,Thea Hendricks,Consumer,27-Sept-19,California,92037,Furniture,01-Oct-19,4,5,$603.9
+,,,,,,Office Supplies,01-Oct-19,4,2,$82.0
+CA-2019-115049,Michael Moore,Consumer,26-Sept-19,Illinois,60623,Technology,01-Oct-19,5,11,$153.8
+CA-2019-115133,Dianna Arnett,Home Office,26-Sept-19,Ohio,43130,Office Supplies,30-Sept-19,4,10,$49.6
+,,,,,,Technology,30-Sept-19,4,2,$3.2
+CA-2019-127586,Christopher Schild,Home Office,26-Sept-19,Washington,98115,Office Supplies,30-Sept-19,4,2,$310.1
+CA-2019-132451,Karen Ferguson,Home Office,26-Sept-19,California,92105,Furniture,27-Sept-19,1,3,$585.6
+,,,,,,Office Supplies,27-Sept-19,1,3,$19.4
+CA-2019-144974,Craig Molinari,Corporate,26-Sept-19,Pennsylvania,19140,Furniture,30-Sept-19,4,1,$21.2
+,,,,,,Office Supplies,30-Sept-19,4,11,$47.3
+CA-2019-164385,Nicole Brennan,Corporate,26-Sept-19,Pennsylvania,19134,Office Supplies,01-Oct-19,5,3,$144.0
+US-2019-151925,Kean Takahito,Consumer,26-Sept-19,California,90049,Furniture,01-Oct-19,5,2,$145.6
+US-2019-152723,Henry Goldwyn,Corporate,26-Sept-19,Texas,75150,Office Supplies,26-Sept-19,0,1,$0.9
+CA-2019-141355,Barry Franz,Home Office,25-Sept-19,Colorado,80013,Office Supplies,30-Sept-19,5,2,$14.6
+US-2019-112914,Michelle Tran,Home Office,25-Sept-19,Texas,77041,Furniture,30-Sept-19,5,2,$300.5
+,,,,,,Office Supplies,30-Sept-19,5,12,$39.8
+CA-2019-123344,Julia Dunbar,Consumer,24-Sept-19,California,94109,Office Supplies,29-Sept-19,5,4,$212.0
+CA-2019-113964,Julie Prescott,Home Office,23-Sept-19,New York,10011,Office Supplies,30-Sept-19,7,4,$18.5
+CA-2019-116904,Sanjit Chand,Consumer,23-Sept-19,Minnesota,55407,Office Supplies,28-Sept-19,5,17,"$9,900.2"
+CA-2019-147900,Jim Kriz,Home Office,23-Sept-19,Ohio,44107,Office Supplies,28-Sept-19,5,9,$28.8
+CA-2019-148369,Thea Hudgings,Corporate,23-Sept-19,Delaware,19711,Office Supplies,27-Sept-19,4,4,$11.1
+CA-2019-163559,Shui Tom,Consumer,23-Sept-19,New York,10035,Office Supplies,28-Sept-19,5,3,$139.4
+CA-2019-163650,Thomas Thornton,Consumer,23-Sept-19,Delaware,19901,Office Supplies,25-Sept-19,2,6,$44.3
+US-2019-134733,Brian Moss,Corporate,23-Sept-19,California,92037,Furniture,28-Sept-19,5,3,$436.0
+,,,,,,Technology,28-Sept-19,5,2,$84.0
+CA-2019-103191,Vivek Grady,Corporate,22-Sept-19,Illinois,60653,Office Supplies,27-Sept-19,5,3,$331.5
+CA-2019-127488,Maribeth Schnelling,Consumer,22-Sept-19,Florida,33433,Office Supplies,24-Sept-19,2,2,$4.6
+CA-2019-156160,Adam Shillingsburg,Consumer,22-Sept-19,New York,10035,Furniture,29-Sept-19,7,7,$677.0
+,,,,,,Office Supplies,29-Sept-19,7,5,$17.0
+CA-2019-158225,Sanjit Engle,Consumer,22-Sept-19,California,95123,Office Supplies,28-Sept-19,6,7,$210.1
+CA-2019-117478,Larry Hughes,Consumer,21-Sept-19,Pennsylvania,19140,Office Supplies,24-Sept-19,3,3,$6.6
+CA-2019-124513,Sara Luxemburg,Home Office,21-Sept-19,New York,10011,Office Supplies,25-Sept-19,4,3,$66.0
+CA-2019-125514,Brian Moss,Corporate,21-Sept-19,Nebraska,68104,Office Supplies,22-Sept-19,1,6,$68.7
+CA-2019-153969,Herbert Flentye,Consumer,21-Sept-19,California,94109,Office Supplies,25-Sept-19,4,22,$211.3
+,,,,,,Technology,25-Sept-19,4,2,$240.0
+CA-2019-168823,Matt Abelman,Home Office,21-Sept-19,Pennsylvania,19143,Office Supplies,24-Sept-19,3,12,$32.2
+US-2019-135972,Jack Garza,Consumer,21-Sept-19,Washington,98198,Technology,23-Sept-19,2,5,"$2,046.4"
+US-2019-166310,Joni Sundaresam,Home Office,21-Sept-19,Texas,75043,Furniture,23-Sept-19,2,2,$8.5
+CA-2019-120411,Sarah Brown,Consumer,20-Sept-19,Illinois,60653,Furniture,23-Sept-19,3,5,$493.4
+,,,,,,Technology,23-Sept-19,3,2,$11.1
+CA-2019-125997,Mitch Webber,Consumer,20-Sept-19,New York,10011,Furniture,23-Sept-19,3,4,"$1,433.4"
+,,,,,,Office Supplies,23-Sept-19,3,7,$106.2
+,,,,,,Technology,23-Sept-19,3,14,"$1,979.9"
+CA-2019-126480,Henry Goldwyn,Corporate,20-Sept-19,California,92024,Office Supplies,24-Sept-19,4,2,$8.6
+CA-2019-133704,Michelle Arnett,Home Office,20-Sept-19,California,90004,Office Supplies,26-Sept-19,6,7,$64.2
+CA-2019-151953,Dorothy Badders,Corporate,20-Sept-19,Florida,32216,Office Supplies,25-Sept-19,5,2,$2.8
+CA-2019-156433,Erica Smith,Consumer,20-Sept-19,California,94110,Office Supplies,26-Sept-19,6,6,$31.7
+CA-2019-166744,Duane Noonan,Consumer,20-Sept-19,Maryland,21044,Furniture,24-Sept-19,4,6,$527.2
+,,,,,,Technology,24-Sept-19,4,2,$60.0
+US-2019-134614,Philip Fox,Consumer,20-Sept-19,Illinois,61701,Furniture,25-Sept-19,5,6,$617.7
+CA-2019-127299,John Lee,Consumer,19-Sept-19,North Carolina,28205,Office Supplies,24-Sept-19,5,6,$67.3
+,,,,,,Technology,24-Sept-19,5,3,"$2,625.0"
+CA-2019-132787,Mike Caudle,Corporate,19-Sept-19,Washington,98115,Office Supplies,23-Sept-19,4,6,$92.5
+CA-2019-138177,Neil Ducich,Corporate,19-Sept-19,Arizona,85224,Furniture,24-Sept-19,5,1,$73.9
+CA-2019-156601,Frank Atkinson,Corporate,19-Sept-19,California,90805,Office Supplies,24-Sept-19,5,2,$7.2
+CA-2019-159849,Jim Kriz,Home Office,19-Sept-19,California,94110,Office Supplies,19-Sept-19,0,3,$5.7
+CA-2019-168130,Bill Shonely,Corporate,19-Sept-19,New York,10011,Furniture,19-Sept-19,0,7,$887.1
+US-2019-106992,Sean Braxton,Corporate,19-Sept-19,Texas,77036,Technology,21-Sept-19,2,10,"$5,579.9"
+CA-2019-103940,Bradley Nguyen,Consumer,17-Sept-19,Washington,98103,Furniture,21-Sept-19,4,2,$35.3
+,,,,,,Office Supplies,21-Sept-19,4,10,$225.5
+CA-2019-112851,Nick Radford,Consumer,17-Sept-19,California,91911,Office Supplies,21-Sept-19,4,3,$182.9
+CA-2019-131947,Joseph Airdo,Consumer,17-Sept-19,Oregon,97477,Office Supplies,22-Sept-19,5,16,$232.4
+,,,,,,Technology,22-Sept-19,5,15,$85.8
+US-2019-117170,Kean Takahito,Consumer,17-Sept-19,North Carolina,27604,Office Supplies,24-Sept-19,7,1,$4.6
+,,,,,,Technology,24-Sept-19,7,2,$48.0
+US-2019-158638,Anthony Garverick,Home Office,17-Sept-19,Pennsylvania,19120,Office Supplies,21-Sept-19,4,4,$5.9
+CA-2019-141152,Randy Ferguson,Corporate,16-Sept-19,New York,10024,Office Supplies,19-Sept-19,3,1,$33.6
+CA-2019-138100,Alex Avila,Consumer,15-Sept-19,New York,10011,Furniture,20-Sept-19,5,2,$14.6
+,,,,,,Office Supplies,20-Sept-19,5,3,$14.9
+CA-2019-149594,Monica Federle,Corporate,15-Sept-19,Pennsylvania,19120,Furniture,19-Sept-19,4,4,$103.9
+CA-2019-113362,Astrea Jones,Consumer,14-Sept-19,New York,14609,Office Supplies,19-Sept-19,5,8,$460.2
+CA-2019-145576,Cynthia Arntzen,Consumer,14-Sept-19,Florida,33614,Furniture,18-Sept-19,4,3,$13.1
+,,,,,,Office Supplies,18-Sept-19,4,5,$13.0
+CA-2019-159184,John Castell,Consumer,14-Sept-19,Georgia,31204,Furniture,19-Sept-19,5,5,$142.4
+,,,,,,Office Supplies,19-Sept-19,5,2,$7.2
+CA-2019-160766,Darrin Martin,Consumer,14-Sept-19,New York,10009,Furniture,14-Sept-19,0,9,$464.3
+,,,,,,Office Supplies,14-Sept-19,0,18,$714.6
+,,,,,,Technology,14-Sept-19,0,8,"$3,104.9"
+US-2019-100853,Jennifer Braxton,Corporate,14-Sept-19,Illinois,60623,Office Supplies,19-Sept-19,5,6,$72.6
+US-2019-127635,Scott Cohen,Corporate,14-Sept-19,Texas,78415,Furniture,18-Sept-19,4,5,$10.0
+,,,,,,Office Supplies,18-Sept-19,4,8,$21.4
+CA-2019-113859,Becky Castell,Home Office,13-Sept-19,Texas,79762,Furniture,17-Sept-19,4,6,$340.1
+CA-2019-126277,Lena Hernandez,Consumer,13-Sept-19,Ohio,43229,Office Supplies,18-Sept-19,5,3,$2.5
+CA-2019-132962,Jessica Myrick,Consumer,13-Sept-19,Pennsylvania,19143,Office Supplies,16-Sept-19,3,3,$15.6
+,,,,,,Technology,16-Sept-19,3,5,$252.0
+CA-2019-140039,Odella Nelson,Corporate,13-Sept-19,Arizona,85281,Office Supplies,17-Sept-19,4,5,$79.4
+CA-2019-142769,Resi Pölking,Consumer,13-Sept-19,Washington,98103,Furniture,13-Sept-19,0,3,$14.2
+,,,,,,Office Supplies,13-Sept-19,0,10,$84.6
+,,,,,,Technology,13-Sept-19,0,8,$462.9
+CA-2019-145212,Dan Campbell,Consumer,13-Sept-19,New York,10011,Office Supplies,19-Sept-19,6,3,$5.5
+US-2019-156216,Erin Ashbrook,Corporate,13-Sept-19,North Carolina,28205,Office Supplies,17-Sept-19,4,7,$18.6
+CA-2019-101476,Shirley Daniels,Home Office,12-Sept-19,New York,10801,Technology,13-Sept-19,1,1,$70.0
+CA-2019-103702,Art Foster,Consumer,12-Sept-19,Ohio,45014,Office Supplies,17-Sept-19,5,7,$63.9
+CA-2019-116246,Luke Weiss,Consumer,12-Sept-19,New York,10035,Furniture,17-Sept-19,5,6,"$3,785.3"
+CA-2019-138527,Brad Norvell,Corporate,12-Sept-19,North Carolina,27511,Office Supplies,17-Sept-19,5,7,$177.2
+,,,,,,Technology,17-Sept-19,5,1,$15.2
+US-2019-119081,Tom Ashbrook,Home Office,12-Sept-19,Kansas,66062,Furniture,19-Sept-19,7,2,$40.6
+,,,,,,Office Supplies,19-Sept-19,7,5,$689.9
+,,,,,,Technology,19-Sept-19,7,5,$57.4
+US-2019-150924,Pete Takahito,Consumer,12-Sept-19,Texas,77070,Office Supplies,16-Sept-19,4,5,$5.2
+CA-2019-112837,Liz Willingham,Consumer,11-Sept-19,California,93030,Furniture,16-Sept-19,5,3,$128.0
+CA-2019-113383,Sandra Flanagan,Consumer,10-Sept-19,New Jersey,07011,Furniture,13-Sept-19,3,5,$254.9
+,,,,,,Office Supplies,13-Sept-19,3,4,$81.9
+CA-2019-125731,Clay Ludtke,Consumer,10-Sept-19,Oregon,97030,Furniture,16-Sept-19,6,5,"$1,487.0"
+,,,,,,Office Supplies,16-Sept-19,6,7,$21.7
+US-2019-138835,Dianna Arnett,Home Office,10-Sept-19,Virginia,23464,Office Supplies,14-Sept-19,4,2,$9.6
+CA-2019-102869,Logan Currie,Consumer,09-Sept-19,Pennsylvania,19140,Furniture,14-Sept-19,5,3,$17.5
+,,,,,,Office Supplies,14-Sept-19,5,3,$15.6
+,,,,,,Technology,14-Sept-19,5,7,$200.2
+CA-2019-103527,Chris Cortes,Consumer,09-Sept-19,Illinois,60653,Office Supplies,14-Sept-19,5,3,$10.9
+CA-2019-126403,Rick Reed,Corporate,09-Sept-19,Massachusetts,01852,Furniture,12-Sept-19,3,6,$785.9
+,,,,,,Office Supplies,12-Sept-19,3,10,"$1,518.5"
+CA-2019-144407,Maribeth Schnelling,Consumer,09-Sept-19,Michigan,48227,Office Supplies,15-Sept-19,6,7,$103.6
+US-2019-115196,Daniel Lacy,Consumer,09-Sept-19,North Carolina,27834,Technology,13-Sept-19,4,2,"$1,300.0"
+US-2019-131870,Nicole Fjeld,Home Office,09-Sept-19,Ohio,43130,Furniture,11-Sept-19,2,6,$60.7
+,,,,,,Office Supplies,11-Sept-19,2,9,$30.8
+CA-2019-107818,Marc Crier,Consumer,08-Sept-19,Washington,99301,Furniture,14-Sept-19,6,5,$975.9
+,,,,,,Office Supplies,14-Sept-19,6,16,$795.6
+CA-2019-123127,Stefania Perrino,Corporate,08-Sept-19,New York,11561,Office Supplies,12-Sept-19,4,2,$16.8
+CA-2019-128839,Ted Trevino,Consumer,08-Sept-19,Virginia,23320,Office Supplies,13-Sept-19,5,9,$45.0
+,,,,,,Technology,13-Sept-19,5,3,$210.0
+CA-2019-132500,Gary Zandusky,Consumer,08-Sept-19,California,94110,Technology,12-Sept-19,4,2,$50.0
+CA-2019-139892,Becky Martin,Consumer,08-Sept-19,Texas,78207,Furniture,12-Sept-19,4,9,"$1,740.1"
+,,,,,,Office Supplies,12-Sept-19,4,17,$495.9
+,,,,,,Technology,12-Sept-19,4,11,"$8,303.9"
+CA-2019-140032,Toby Swindell,Consumer,08-Sept-19,California,94109,Office Supplies,13-Sept-19,5,2,$8.6
+CA-2019-146283,Kean Takahito,Consumer,08-Sept-19,Texas,77036,Furniture,15-Sept-19,7,5,$966.7
+,,,,,,Office Supplies,15-Sept-19,7,8,$200.0
+CA-2019-146815,Paul Prost,Home Office,08-Sept-19,New York,10009,Furniture,13-Sept-19,5,2,$172.8
+,,,,,,Office Supplies,13-Sept-19,5,2,$3.5
+CA-2019-163293,Karen Carlisle,Corporate,08-Sept-19,Georgia,31204,Technology,11-Sept-19,3,7,$116.9
+CA-2019-168592,Dennis Pardue,Home Office,08-Sept-19,California,94110,Office Supplies,14-Sept-19,6,8,$75.6
+US-2019-115987,Lisa Hazard,Consumer,08-Sept-19,Texas,75701,Office Supplies,13-Sept-19,5,4,$51.2
+CA-2019-100006,Dennis Kane,Consumer,07-Sept-19,New York,10024,Technology,13-Sept-19,6,3,$378.0
+CA-2019-105165,Sam Zeldin,Home Office,07-Sept-19,Texas,77036,Furniture,10-Sept-19,3,1,$200.8
+,,,,,,Office Supplies,10-Sept-19,3,5,$24.8
+,,,,,,Technology,10-Sept-19,3,7,$243.5
+CA-2019-109918,Lisa Ryan,Corporate,07-Sept-19,California,95051,Office Supplies,12-Sept-19,5,11,$131.8
+CA-2019-117765,Rick Bensley,Home Office,07-Sept-19,Oklahoma,74133,Furniture,13-Sept-19,6,7,$591.9
+,,,,,,Office Supplies,13-Sept-19,6,4,$51.9
+CA-2019-122882,Sean Braxton,Corporate,07-Sept-19,Pennsylvania,19134,Furniture,13-Sept-19,6,2,$42.4
+,,,,,,Office Supplies,13-Sept-19,6,1,$64.8
+,,,,,,Technology,13-Sept-19,6,7,$431.9
+CA-2019-126193,Shahid Shariari,Consumer,07-Sept-19,Illinois,60543,Office Supplies,14-Sept-19,7,13,$322.0
+CA-2019-131002,Tom Boeckenhauer,Consumer,07-Sept-19,Oklahoma,74133,Furniture,12-Sept-19,5,9,$879.6
+,,,,,,Office Supplies,12-Sept-19,5,5,$55.8
+,,,,,,Technology,12-Sept-19,5,3,$104.9
+CA-2019-130449,Victoria Pisteka,Corporate,06-Sept-19,California,94109,Furniture,09-Sept-19,3,6,$41.9
+,,,,,,Office Supplies,09-Sept-19,3,8,$58.5
+CA-2019-106572,Nora Preis,Consumer,05-Sept-19,Ohio,43402,Office Supplies,10-Sept-19,5,2,$264.3
+CA-2019-136861,Patrick Ryan,Consumer,05-Sept-19,Florida,33710,Furniture,07-Sept-19,2,2,$32.0
+CA-2019-125171,Allen Goldenen,Consumer,03-Sept-19,New York,10009,Office Supplies,03-Sept-19,0,5,$14.4
+US-2019-120236,Mathew Reese,Home Office,03-Sept-19,Texas,77095,Office Supplies,04-Sept-19,1,5,$7.7
+CA-2019-106971,Bryan Mills,Consumer,02-Sept-19,Illinois,60089,Technology,08-Sept-19,6,7,$475.9
+CA-2019-127936,Clay Ludtke,Consumer,02-Sept-19,New York,10009,Office Supplies,04-Sept-19,2,3,$21.2
+CA-2019-151792,Christina VanderZanden,Consumer,02-Sept-19,Illinois,60653,Technology,07-Sept-19,5,3,$240.0
+CA-2019-152268,Sanjit Chand,Consumer,02-Sept-19,Arkansas,72701,Office Supplies,07-Sept-19,5,2,"$1,794.0"
+CA-2019-157721,Justin MacKendrick,Consumer,02-Sept-19,New York,13601,Furniture,05-Sept-19,3,1,$70.7
+,,,,,,Office Supplies,05-Sept-19,3,1,$19.9
+CA-2019-158281,Andy Gerbode,Corporate,02-Sept-19,Texas,77095,Technology,07-Sept-19,5,3,$559.7
+US-2019-138828,Katherine Ducich,Consumer,02-Sept-19,New York,10009,Office Supplies,03-Sept-19,1,8,$72.7
+CA-2019-109855,Lena Hernandez,Consumer,01-Sept-19,New York,10009,Office Supplies,05-Sept-19,4,2,$23.7
+,,,,,,Technology,05-Sept-19,4,3,$357.0
+CA-2019-126522,Larry Tron,Consumer,01-Sept-19,California,92025,Office Supplies,05-Sept-19,4,3,$53.9
+CA-2019-165428,Jack Lebron,Consumer,01-Sept-19,Texas,77036,Office Supplies,04-Sept-19,3,9,$34.8
+CA-2019-143385,Shirley Jackson,Consumer,31-Aug-19,New Mexico,87505,Technology,05-Sept-19,5,9,$92.5
+CA-2019-146500,Annie Thurman,Consumer,30-Aug-19,Connecticut,06010,Office Supplies,04-Sept-19,5,8,$121.2
+CA-2019-135699,Hilary Holden,Corporate,29-Aug-19,California,94110,Office Supplies,29-Aug-19,0,4,$123.3
+CA-2019-169775,Ryan Akin,Consumer,29-Aug-19,Florida,33178,Furniture,02-Sept-19,4,3,$174.1
+,,,,,,Office Supplies,02-Sept-19,4,6,$535.0
+CA-2019-101266,Michael Moore,Consumer,27-Aug-19,Virginia,22153,Office Supplies,30-Aug-19,3,2,$13.4
+CA-2019-124688,Corey Catlett,Corporate,27-Aug-19,Virginia,22153,Furniture,29-Aug-19,2,7,"$1,232.1"
+,,,,,,Technology,29-Aug-19,2,5,$580.0
+CA-2019-143336,Zuschuss Donatelli,Consumer,27-Aug-19,California,94109,Office Supplies,01-Sept-19,5,6,$31.3
+,,,,,,Technology,01-Sept-19,5,3,$213.5
+CA-2019-103331,Karl Braun,Consumer,26-Aug-19,Delaware,19711,Furniture,01-Sept-19,6,4,$10.7
+,,,,,,Office Supplies,01-Sept-19,6,4,$20.7
+CA-2019-123260,Frank Merwin,Home Office,26-Aug-19,California,90032,Technology,30-Aug-19,4,8,$176.8
+US-2019-115413,Paul Prost,Home Office,26-Aug-19,Delaware,19711,Office Supplies,01-Sept-19,6,3,$8.6
+,,,,,,Technology,01-Sept-19,6,3,$150.0
+CA-2019-103660,Mitch Webber,Consumer,25-Aug-19,Washington,98103,Technology,30-Aug-19,5,7,"$1,007.9"
+CA-2019-104178,Janet Molinari,Corporate,25-Aug-19,California,90036,Furniture,29-Aug-19,4,1,$6.3
+,,,,,,Office Supplies,29-Aug-19,4,8,$74.8
+,,,,,,Technology,29-Aug-19,4,5,$95.1
+CA-2019-107398,Brendan Sweed,Corporate,25-Aug-19,Ohio,43229,Office Supplies,30-Aug-19,5,15,$30.2
+CA-2019-115259,Ryan Crowe,Consumer,25-Aug-19,Ohio,43229,Office Supplies,27-Aug-19,2,25,$199.3
+CA-2019-126200,Joe Elijah,Consumer,25-Aug-19,Texas,77070,Office Supplies,29-Aug-19,4,6,$38.1
+CA-2019-106719,Robert Barroso,Corporate,24-Aug-19,Montana,59102,Office Supplies,24-Aug-19,0,2,$8.3
+CA-2019-107916,Jennifer Patt,Corporate,24-Aug-19,New York,11572,Furniture,26-Aug-19,2,2,$13.3
+,,,,,,Office Supplies,26-Aug-19,2,3,$12.7
+CA-2019-120432,Dorothy Wardle,Corporate,24-Aug-19,Kentucky,42301,Office Supplies,26-Aug-19,2,3,$25.5
+CA-2019-110639,Rick Hansen,Consumer,23-Aug-19,New York,10009,Office Supplies,23-Aug-19,0,8,$71.8
+CA-2019-124737,Arthur Prichep,Consumer,23-Aug-19,Colorado,80219,Furniture,27-Aug-19,4,3,$4.2
+,,,,,,Office Supplies,27-Aug-19,4,19,$276.5
+,,,,,,Technology,27-Aug-19,4,9,$143.6
+CA-2019-154837,Robert Barroso,Corporate,23-Aug-19,California,90032,Office Supplies,27-Aug-19,4,2,$49.6
+US-2019-112795,Corey Roper,Home Office,23-Aug-19,Michigan,49505,Office Supplies,28-Aug-19,5,3,$19.4
+CA-2019-123253,Deanra Eno,Home Office,22-Aug-19,Ohio,44107,Office Supplies,25-Aug-19,3,1,$3.9
+CA-2019-130918,Jeremy Pistek,Consumer,22-Aug-19,Florida,33161,Office Supplies,24-Aug-19,2,3,$7.6
+US-2019-166828,Jennifer Ferguson,Consumer,22-Aug-19,Missouri,63301,Office Supplies,25-Aug-19,3,2,$11.6
+CA-2019-114321,Nick Crebassa,Corporate,20-Aug-19,Virginia,23666,Furniture,25-Aug-19,5,13,$500.2
+,,,,,,Office Supplies,25-Aug-19,5,3,$917.1
+CA-2019-166716,Craig Reiter,Consumer,20-Aug-19,Illinois,60610,Furniture,25-Aug-19,5,2,$421.4
+CA-2019-121727,Jim Karlsson,Consumer,19-Aug-19,Ohio,43229,Office Supplies,24-Aug-19,5,2,$10.7
+CA-2019-133158,David Wiener,Corporate,19-Aug-19,California,90045,Furniture,21-Aug-19,2,7,$289.2
+,,,,,,Office Supplies,21-Aug-19,2,2,$69.5
+US-2019-143581,Bill Shonely,Corporate,19-Aug-19,Georgia,31907,Office Supplies,23-Aug-19,4,3,$344.9
+US-2019-156559,Lena Hernandez,Consumer,19-Aug-19,Arkansas,72401,Furniture,26-Aug-19,7,9,$638.8
+US-2019-164616,Maxwell Schwartz,Consumer,19-Aug-19,Ohio,43229,Office Supplies,21-Aug-19,2,6,$86.0
+CA-2019-111500,Don Jones,Corporate,17-Aug-19,Arkansas,72209,Office Supplies,21-Aug-19,4,16,$144.8
+,,,,,,Technology,21-Aug-19,4,4,$340.0
+CA-2019-129168,Ken Black,Corporate,17-Aug-19,Texas,77095,Office Supplies,23-Aug-19,6,3,$15.6
+CA-2019-142839,Troy Staebel,Consumer,16-Aug-19,Pennsylvania,19143,Furniture,20-Aug-19,4,6,$853.1
+CA-2019-109043,Christine Sundaresam,Consumer,15-Aug-19,Florida,33021,Office Supplies,17-Aug-19,2,10,$243.6
+CA-2019-138023,Keith Herrera,Consumer,15-Aug-19,Texas,75081,Office Supplies,18-Aug-19,3,8,$31.0
+CA-2019-141005,Christine Sundaresam,Consumer,15-Aug-19,Connecticut,06824,Office Supplies,18-Aug-19,3,3,$62.9
+US-2019-164406,Brian Dahlen,Consumer,15-Aug-19,California,94122,Furniture,19-Aug-19,4,4,$195.1
+,,,,,,Office Supplies,19-Aug-19,4,13,$310.1
+CA-2019-109302,Charles Sheldon,Corporate,12-Aug-19,New Jersey,08701,Office Supplies,16-Aug-19,4,7,$196.2
+CA-2019-109897,Ben Wallace,Consumer,12-Aug-19,California,94122,Furniture,16-Aug-19,4,3,$85.4
+,,,,,,Technology,16-Aug-19,4,8,$806.3
+CA-2019-153927,Lauren Leatherbury,Consumer,12-Aug-19,Georgia,30188,Office Supplies,13-Aug-19,1,3,$14.0
+,,,,,,Technology,13-Aug-19,1,13,$272.6
+CA-2019-156244,Duane Huffman,Home Office,12-Aug-19,Florida,33180,Office Supplies,16-Aug-19,4,20,$298.8
+,,,,,,Technology,16-Aug-19,4,7,$158.9
+CA-2019-127012,Greg Matthias,Consumer,11-Aug-19,Washington,98105,Furniture,15-Aug-19,4,1,$12.4
+,,,,,,Office Supplies,15-Aug-19,4,3,$63.9
+CA-2019-154641,Ken Lonsdale,Consumer,11-Aug-19,New York,10035,Office Supplies,16-Aug-19,5,1,$375.3
+CA-2019-110527,Emily Ducich,Home Office,09-Aug-19,California,92037,Office Supplies,16-Aug-19,7,8,$20.9
+CA-2019-141901,Gene McClure,Consumer,09-Aug-19,California,93727,Office Supplies,14-Aug-19,5,1,$6.0
+CA-2019-161249,Roger Demir,Consumer,09-Aug-19,Arizona,85023,Office Supplies,13-Aug-19,4,8,$13.8
+CA-2019-166471,Matthew Grinstein,Home Office,09-Aug-19,Washington,98103,Technology,13-Aug-19,4,6,"$1,310.3"
+CA-2019-167850,Andy Gerbode,Corporate,09-Aug-19,Florida,33710,Office Supplies,16-Aug-19,7,3,$15.6
+,,,,,,Technology,16-Aug-19,7,2,$178.4
+CA-2019-169726,Joseph Holt,Consumer,09-Aug-19,Washington,98103,Office Supplies,13-Aug-19,4,7,"$2,060.7"
+CA-2019-124478,Matt Abelman,Home Office,08-Aug-19,Michigan,48183,Furniture,12-Aug-19,4,6,$53.9
+,,,,,,Office Supplies,12-Aug-19,4,6,$205.9
+,,,,,,Technology,12-Aug-19,4,3,$850.0
+CA-2019-131450,Lena Radford,Consumer,08-Aug-19,California,92024,Furniture,15-Aug-19,7,8,$327.8
+,,,,,,Office Supplies,15-Aug-19,7,2,$76.1
+,,,,,,Technology,15-Aug-19,7,8,"$1,645.9"
+CA-2019-151708,Maria Bertelson,Consumer,08-Aug-19,Arizona,85301,Furniture,14-Aug-19,6,4,$121.4
+,,,,,,Technology,14-Aug-19,6,3,$96.0
+CA-2019-154669,Tamara Manning,Consumer,08-Aug-19,California,95687,Office Supplies,11-Aug-19,3,11,$423.3
+CA-2019-156790,Vivek Gonzalez,Consumer,08-Aug-19,Florida,32216,Furniture,10-Aug-19,2,4,$155.5
+CA-2019-115357,Roland Fjeld,Consumer,06-Aug-19,South Carolina,29203,Technology,11-Aug-19,5,3,$62.9
+CA-2019-137575,Trudy Brown,Consumer,06-Aug-19,New York,10035,Technology,11-Aug-19,5,2,$200.0
+CA-2019-110065,Stephanie Phelps,Corporate,05-Aug-19,New York,10009,Office Supplies,11-Aug-19,6,7,$16.0
+,,,,,,Technology,11-Aug-19,6,1,$136.0
+CA-2019-118962,Chad Sievert,Consumer,05-Aug-19,California,90004,Furniture,09-Aug-19,4,7,$340.1
+,,,,,,Office Supplies,09-Aug-19,4,5,$131.9
+CA-2019-124723,Gary Zandusky,Consumer,05-Aug-19,Texas,77590,Furniture,12-Aug-19,7,2,$489.2
+CA-2019-150490,Sonia Sunley,Consumer,05-Aug-19,California,94122,Office Supplies,11-Aug-19,6,4,$61.8
+,,,,,,Technology,11-Aug-19,6,1,$16.4
+US-2019-117968,Ricardo Sperren,Corporate,05-Aug-19,Connecticut,06450,Furniture,07-Aug-19,2,5,"$1,133.4"
+,,,,,,Office Supplies,07-Aug-19,2,5,$84.0
+CA-2019-126361,Valerie Dominguez,Consumer,04-Aug-19,Utah,84062,Office Supplies,09-Aug-19,5,22,"$1,726.1"
+,,,,,,Technology,09-Aug-19,5,5,$400.0
+CA-2019-134215,Marina Lichtenstein,Corporate,04-Aug-19,Maine,04401,Office Supplies,08-Aug-19,4,15,$361.7
+,,,,,,Technology,08-Aug-19,4,9,$255.4
+CA-2019-125612,Berenike Kampe,Consumer,03-Aug-19,New York,10035,Office Supplies,08-Aug-19,5,14,$163.6
+CA-2019-128986,Gary Hansen,Home Office,03-Aug-19,Arizona,85301,Office Supplies,05-Aug-19,2,3,$93.0
+CA-2019-133690,Bruce Stewart,Consumer,03-Aug-19,Colorado,80219,Furniture,05-Aug-19,2,2,$218.8
+,,,,,,Office Supplies,05-Aug-19,2,1,$2.6
+US-2019-106299,Nick Zandusky,Home Office,02-Aug-19,Missouri,65807,Office Supplies,08-Aug-19,6,7,$865.1
+,,,,,,Technology,08-Aug-19,6,2,$21.2
+CA-2019-117345,Barbara Fisher,Corporate,01-Aug-19,North Carolina,28205,Furniture,05-Aug-19,4,4,$44.1
+,,,,,,Office Supplies,05-Aug-19,4,6,$158.8
+CA-2019-152296,Ivan Liston,Consumer,01-Aug-19,California,94122,Office Supplies,03-Aug-19,2,3,$19.8
+CA-2019-162684,Ann Steele,Home Office,01-Aug-19,Pennsylvania,19120,Office Supplies,06-Aug-19,5,2,$5.7
+CA-2019-111192,Tom Stivers,Corporate,30-Jul-19,Washington,98103,Furniture,05-Aug-19,6,8,"$1,367.8"
+CA-2019-131541,Chloris Kastensmidt,Consumer,28-Jul-19,Florida,32712,Furniture,28-Jul-19,0,6,$129.9
+,,,,,,Office Supplies,28-Jul-19,0,12,$63.3
+CA-2019-124709,Giulietta Weimer,Consumer,27-Jul-19,California,94122,Technology,29-Jul-19,2,2,$238.0
+CA-2019-169642,Barry Blumstein,Corporate,27-Jul-19,California,90036,Office Supplies,30-Jul-19,3,2,$276.3
+US-2019-150126,Aaron Smayling,Corporate,27-Jul-19,New York,10035,Office Supplies,02-Aug-19,6,11,$65.8
+CA-2019-116190,Sheri Gordon,Consumer,26-Jul-19,Georgia,30318,Furniture,01-Aug-19,6,5,$93.6
+,,,,,,Office Supplies,01-Aug-19,6,13,$162.9
+CA-2019-126760,Kunst Miller,Consumer,26-Jul-19,Nevada,89031,Furniture,02-Aug-19,7,12,$808.4
+,,,,,,Technology,02-Aug-19,7,5,"$1,083.0"
+CA-2019-159121,Jack O'Briant,Corporate,26-Jul-19,Utah,84020,Technology,01-Aug-19,6,7,$111.9
+CA-2019-169019,Luke Foster,Consumer,26-Jul-19,Texas,78207,Furniture,30-Jul-19,4,3,$17.5
+,,,,,,Office Supplies,30-Jul-19,4,19,"$2,208.1"
+,,,,,,Technology,30-Jul-19,4,9,$431.1
+US-2019-155894,Carl Ludwig,Consumer,26-Jul-19,Illinois,60623,Office Supplies,30-Jul-19,4,3,$123.6
+CA-2019-143917,Ken Lonsdale,Consumer,25-Jul-19,California,94122,Furniture,27-Jul-19,2,8,$77.9
+,,,,,,Office Supplies,27-Jul-19,2,9,"$8,241.4"
+CA-2019-146528,Vicky Freymann,Home Office,25-Jul-19,California,90045,Office Supplies,27-Jul-19,2,5,$22.0
+CA-2019-103058,Alejandro Grove,Consumer,23-Jul-19,New York,10011,Technology,24-Jul-19,1,2,$100.0
+CA-2019-145254,Nick Crebassa,Corporate,23-Jul-19,California,94122,Office Supplies,27-Jul-19,4,5,$40.7
+,,,,,,Technology,27-Jul-19,4,12,$952.1
+US-2019-119137,Arthur Gainer,Consumer,23-Jul-19,Arizona,85705,Office Supplies,27-Jul-19,4,6,$17.4
+,,,,,,Technology,27-Jul-19,4,18,"$1,503.0"
+CA-2019-117464,Naresj Patel,Consumer,22-Jul-19,California,94122,Furniture,24-Jul-19,2,6,$888.1
+,,,,,,Office Supplies,24-Jul-19,2,14,$248.0
+CA-2019-122679,Alejandro Ballentine,Home Office,22-Jul-19,California,90008,Office Supplies,28-Jul-19,6,6,$19.7
+CA-2019-127691,Erin Mull,Consumer,22-Jul-19,New York,10024,Office Supplies,27-Jul-19,5,2,$6.0
+,,,,,,Technology,27-Jul-19,5,2,$160.0
+US-2019-164644,John Lucas,Consumer,22-Jul-19,Texas,77095,Office Supplies,24-Jul-19,2,1,$26.6
+CA-2019-109890,Patrick Gardner,Consumer,21-Jul-19,Nebraska,68104,Technology,27-Jul-19,6,2,$36.0
+CA-2019-116932,Michelle Ellison,Corporate,21-Jul-19,California,94122,Furniture,25-Jul-19,4,3,"$1,074.4"
+,,,,,,Office Supplies,25-Jul-19,4,5,$99.2
+CA-2019-129189,Harry Marie,Corporate,21-Jul-19,Texas,75217,Furniture,25-Jul-19,4,5,$657.9
+,,,,,,Office Supplies,25-Jul-19,4,9,$94.0
+CA-2019-127866,Jonathan Doherty,Corporate,20-Jul-19,California,92503,Office Supplies,23-Jul-19,3,9,$560.5
+,,,,,,Technology,23-Jul-19,3,2,$41.9
+CA-2019-141726,Charles Crestani,Consumer,20-Jul-19,California,92105,Furniture,22-Jul-19,2,3,$43.0
+,,,,,,Office Supplies,22-Jul-19,2,7,$133.5
+CA-2019-142965,Scot Wooten,Consumer,20-Jul-19,Ohio,45503,Office Supplies,20-Jul-19,0,4,$53.3
+CA-2019-143903,Katherine Murray,Home Office,20-Jul-19,Texas,75217,Furniture,24-Jul-19,4,7,$998.1
+,,,,,,Office Supplies,24-Jul-19,4,3,$342.9
+CA-2019-157546,Roger Demir,Consumer,20-Jul-19,California,94122,Office Supplies,22-Jul-19,2,9,$112.5
+CA-2019-168158,Eugene Moren,Home Office,19-Jul-19,Montana,59405,Office Supplies,24-Jul-19,5,2,$6.1
+US-2019-150434,Christine Abelman,Corporate,19-Jul-19,Connecticut,06010,Furniture,24-Jul-19,5,1,$70.6
+,,,,,,Office Supplies,24-Jul-19,5,3,$24.7
+,,,,,,Technology,24-Jul-19,5,2,$360.0
+CA-2019-123295,Adrian Hane,Home Office,18-Jul-19,Arizona,85705,Furniture,18-Jul-19,0,4,$259.1
+CA-2019-138198,Jack Lebron,Consumer,18-Jul-19,New York,10801,Office Supplies,23-Jul-19,5,2,$13.9
+CA-2019-115980,Victoria Wilson,Corporate,15-Jul-19,South Dakota,57103,Office Supplies,19-Jul-19,4,3,$6.5
+,,,,,,Technology,19-Jul-19,4,3,$3.0
+CA-2019-109904,Barbara Fisher,Corporate,14-Jul-19,New York,10009,Office Supplies,17-Jul-19,3,3,$17.9
+CA-2019-124464,Shirley Schmidt,Home Office,14-Jul-19,Delaware,19711,Office Supplies,20-Jul-19,6,1,$39.5
+CA-2019-164182,Shui Tom,Consumer,14-Jul-19,Pennsylvania,19140,Furniture,18-Jul-19,4,2,$32.0
+,,,,,,Office Supplies,18-Jul-19,4,2,$41.6
+,,,,,,Technology,18-Jul-19,4,3,$37.5
+US-2019-103905,Arthur Wiediger,Home Office,14-Jul-19,Illinois,60505,Office Supplies,20-Jul-19,6,7,$29.9
+,,,,,,Technology,20-Jul-19,6,4,$38.3
+US-2019-150532,Philip Brown,Consumer,14-Jul-19,Arizona,85023,Office Supplies,21-Jul-19,7,5,$55.9
+US-2019-165862,Grace Kelly,Corporate,13-Jul-19,California,90049,Furniture,17-Jul-19,4,3,$351.2
+CA-2019-110184,Ben Ferrer,Home Office,12-Jul-19,California,90036,Office Supplies,16-Jul-19,4,9,$249.8
+,,,,,,Technology,16-Jul-19,4,8,$255.9
+CA-2019-124807,Max Engle,Consumer,12-Jul-19,Illinois,60610,Office Supplies,15-Jul-19,3,9,$35.9
+,,,,,,Technology,15-Jul-19,3,4,$23.8
+CA-2019-129924,Alyssa Crouse,Corporate,12-Jul-19,California,94122,Furniture,17-Jul-19,5,3,$698.4
+,,,,,,Office Supplies,17-Jul-19,5,2,$7.7
+CA-2019-131310,Clay Ludtke,Consumer,12-Jul-19,Washington,98115,Furniture,18-Jul-19,6,4,$123.1
+,,,,,,Office Supplies,18-Jul-19,6,4,$11.3
+CA-2019-161508,Paul Van Hugh,Home Office,12-Jul-19,Texas,77573,Furniture,16-Jul-19,4,3,$512.4
+,,,,,,Office Supplies,16-Jul-19,4,12,$41.8
+CA-2019-123225,Michael Nguyen,Consumer,11-Jul-19,Texas,79907,Office Supplies,14-Jul-19,3,2,$10.4
+,,,,,,Technology,14-Jul-19,3,4,$576.0
+CA-2019-133305,Mark Hamilton,Consumer,11-Jul-19,New York,10011,Office Supplies,15-Jul-19,4,9,$67.4
+CA-2019-163552,Laura Armstrong,Corporate,11-Jul-19,New Jersey,07601,Furniture,15-Jul-19,4,12,$979.1
+,,,,,,Office Supplies,15-Jul-19,4,10,$191.6
+,,,,,,Technology,15-Jul-19,4,3,$198.0
+CA-2019-166555,Jamie Kunitz,Consumer,11-Jul-19,New York,14304,Technology,14-Jul-19,3,3,$164.9
+CA-2019-113271,Darrin Sayre,Home Office,09-Jul-19,California,94122,Furniture,14-Jul-19,5,1,$119.8
+,,,,,,Office Supplies,14-Jul-19,5,13,$52.3
+CA-2019-114125,Gary Hansen,Home Office,09-Jul-19,California,90049,Office Supplies,13-Jul-19,4,11,$68.7
+CA-2019-165379,Brian Moss,Corporate,09-Jul-19,Texas,75217,Office Supplies,15-Jul-19,6,5,$24.7
+CA-2019-100090,Ed Braxton,Corporate,08-Jul-19,California,94122,Furniture,12-Jul-19,4,3,$502.5
+,,,,,,Office Supplies,12-Jul-19,4,6,$196.7
+CA-2019-150301,Michelle Huthwaite,Consumer,08-Jul-19,New York,14215,Furniture,10-Jul-19,2,1,$63.9
+US-2019-138758,John Lee,Consumer,07-Jul-19,Pennsylvania,19120,Furniture,11-Jul-19,4,4,$241.2
+CA-2019-134278,Emily Phan,Consumer,06-Jul-19,New York,10011,Technology,08-Jul-19,2,1,$560.0
+CA-2019-147543,Becky Castell,Home Office,06-Jul-19,California,92020,Furniture,12-Jul-19,6,2,$478.5
+CA-2019-103317,Don Miller,Corporate,05-Jul-19,Florida,32137,Furniture,08-Jul-19,3,5,$232.7
+,,,,,,Office Supplies,08-Jul-19,3,5,$9.8
+CA-2019-107139,Dennis Pardue,Home Office,05-Jul-19,California,90004,Office Supplies,11-Jul-19,6,6,$181.0
+CA-2019-152849,David Wiener,Corporate,05-Jul-19,Tennessee,37918,Office Supplies,12-Jul-19,7,3,$4.4
+CA-2019-157784,Michael Chen,Consumer,05-Jul-19,Mississippi,39212,Office Supplies,08-Jul-19,3,5,$34.1
+,,,,,,Technology,08-Jul-19,3,3,$480.0
+US-2019-160444,Dan Campbell,Consumer,05-Jul-19,Texas,77036,Office Supplies,05-Jul-19,0,14,$502.2
+CA-2019-120096,Katrina Edelman,Corporate,04-Jul-19,Colorado,80013,Office Supplies,07-Jul-19,3,6,$210.0
+CA-2019-138709,Maxwell Schwartz,Consumer,04-Jul-19,Virginia,23223,Office Supplies,09-Jul-19,5,8,$37.4
+CA-2019-107594,Eric Hoffmann,Consumer,02-Jul-19,New Jersey,07060,Office Supplies,06-Jul-19,4,1,$5.6
+,,,,,,Technology,06-Jul-19,4,2,$74.0
+CA-2019-153150,Dorris liebe,Corporate,01-Jul-19,Washington,98105,Office Supplies,06-Jul-19,5,5,$19.9
+CA-2019-160773,Laurel Workman,Corporate,01-Jul-19,Florida,32725,Office Supplies,05-Jul-19,4,6,$5.2
+,,,,,,Technology,05-Jul-19,4,2,$575.9
+CA-2019-109218,Anthony Rawles,Corporate,30-Jun-19,California,90004,Office Supplies,03-Jul-19,3,5,$32.4
+CA-2019-116757,Michael Stewart,Corporate,30-Jun-19,Texas,77095,Office Supplies,04-Jul-19,4,11,$47.2
+CA-2019-123064,Russell Applegate,Consumer,30-Jun-19,Illinois,60653,Office Supplies,02-Jul-19,2,4,$5.2
+CA-2019-146640,Helen Abelman,Consumer,30-Jun-19,New York,10024,Office Supplies,05-Jul-19,5,7,$334.8
+CA-2019-152254,Brian DeCherney,Consumer,30-Jun-19,North Carolina,28403,Office Supplies,30-Jun-19,0,7,$310.7
+US-2019-121566,Cari Schnelling,Consumer,30-Jun-19,New York,10011,Office Supplies,06-Jul-19,6,4,$9.3
+CA-2019-111773,Jim Karlsson,Consumer,29-Jun-19,New York,10024,Office Supplies,03-Jul-19,4,3,$13.9
+CA-2019-165974,Dan Lawera,Consumer,29-Jun-19,Ohio,45231,Office Supplies,06-Jul-19,7,7,$32.8
+CA-2019-140858,Cynthia Arntzen,Consumer,28-Jun-19,Pennsylvania,19140,Furniture,02-Jul-19,4,5,"$1,228.5"
+,,,,,,Office Supplies,02-Jul-19,4,18,$411.2
+CA-2019-156993,Rob Williams,Corporate,28-Jun-19,Michigan,48234,Office Supplies,04-Jul-19,6,1,$6.1
+CA-2019-104283,Liz MacKendrick,Consumer,27-Jun-19,Mississippi,38671,Furniture,01-Jul-19,4,1,$86.0
+,,,,,,Office Supplies,01-Jul-19,4,5,$306.2
+,,,,,,Technology,01-Jul-19,4,4,$224.0
+CA-2019-159338,Noel Staavos,Corporate,25-Jun-19,California,90049,Furniture,28-Jun-19,3,5,$447.8
+CA-2019-164469,Grace Kelly,Corporate,25-Jun-19,Oregon,97301,Office Supplies,27-Jun-19,2,12,$81.0
+,,,,,,Technology,27-Jun-19,2,5,$264.0
+CA-2019-159814,Liz Pelletier,Consumer,24-Jun-19,Arizona,85705,Furniture,28-Jun-19,4,2,$4.3
+CA-2019-126032,Brian Stugart,Consumer,23-Jun-19,Pennsylvania,19143,Technology,28-Jun-19,5,3,$86.4
+US-2019-130358,Denise Leinenbach,Consumer,23-Jun-19,North Carolina,28027,Office Supplies,26-Jun-19,3,10,$23.1
+CA-2019-124646,Dianna Vittorini,Consumer,22-Jun-19,Minnesota,55407,Office Supplies,24-Jun-19,2,6,$663.8
+CA-2019-133389,Toby Braunhardt,Consumer,22-Jun-19,Arizona,85023,Office Supplies,22-Jun-19,0,3,$8.2
+CA-2019-142048,Joel Eaton,Consumer,22-Jun-19,Colorado,80027,Technology,25-Jun-19,3,6,$196.8
+CA-2019-154963,Anna Andreadi,Consumer,22-Jun-19,Pennsylvania,19013,Furniture,27-Jun-19,5,8,"$1,024.0"
+,,,,,,Technology,27-Jun-19,5,3,$82.8
+CA-2019-128146,Dave Brooks,Consumer,21-Jun-19,New Jersey,08701,Office Supplies,25-Jun-19,4,2,$3.8
+,,,,,,Technology,25-Jun-19,4,7,"$1,322.9"
+CA-2019-130624,Toby Braunhardt,Consumer,21-Jun-19,New York,10024,Office Supplies,24-Jun-19,3,6,$79.4
+,,,,,,Technology,24-Jun-19,3,3,$618.0
+CA-2019-138317,Natalie Webber,Consumer,21-Jun-19,Pennsylvania,19120,Furniture,25-Jun-19,4,1,$4.0
+,,,,,,Office Supplies,25-Jun-19,4,8,$78.3
+,,,,,,Technology,25-Jun-19,4,7,$303.0
+CA-2019-141278,Raymond Messe,Consumer,21-Jun-19,Connecticut,06450,Office Supplies,24-Jun-19,3,5,$21.4
+CA-2019-141796,James Galang,Consumer,21-Jun-19,New York,11561,Technology,21-Jun-19,0,3,"$1,214.9"
+US-2019-117135,Naresj Patel,Consumer,21-Jun-19,Virginia,22980,Furniture,23-Jun-19,2,1,$104.0
+,,,,,,Office Supplies,23-Jun-19,2,3,$36.8
+,,,,,,Technology,23-Jun-19,2,1,$284.8
+US-2019-160780,Stewart Visinsky,Consumer,21-Jun-19,Colorado,81001,Office Supplies,21-Jun-19,0,9,$36.3
+CA-2019-166863,Sam Craven,Consumer,20-Jun-19,Texas,75023,Furniture,24-Jun-19,4,4,$193.1
+,,,,,,Office Supplies,24-Jun-19,4,16,$540.1
+,,,,,,Technology,24-Jun-19,4,4,$620.4
+US-2019-112949,Corey-Lock,Consumer,20-Jun-19,Oklahoma,73505,Office Supplies,27-Jun-19,7,8,$475.4
+CA-2019-123855,Mick Crebagga,Consumer,18-Jun-19,California,90036,Technology,23-Jun-19,5,5,$139.8
+CA-2019-104402,Duane Benoit,Consumer,17-Jun-19,Delaware,19711,Technology,23-Jun-19,6,3,$66.0
+CA-2019-144414,Gary Hwang,Consumer,17-Jun-19,Washington,98105,Furniture,21-Jun-19,4,3,$6.2
+,,,,,,Office Supplies,21-Jun-19,4,8,"$3,284.3"
+CA-2019-156342,Jennifer Ferguson,Consumer,17-Jun-19,Illinois,60653,Office Supplies,20-Jun-19,3,2,$62.0
+CA-2019-113929,Chloris Kastensmidt,Consumer,16-Jun-19,New York,11550,Office Supplies,21-Jun-19,5,12,$116.0
+CA-2019-136644,Sonia Cooley,Consumer,16-Jun-19,Indiana,46544,Furniture,22-Jun-19,6,8,$647.8
+CA-2019-126963,Pamela Stobb,Consumer,15-Jun-19,Texas,79907,Office Supplies,15-Jun-19,0,2,$36.5
+US-2019-141215,Kelly Lampkin,Corporate,15-Jun-19,Texas,78207,Furniture,21-Jun-19,6,6,$897.9
+,,,,,,Office Supplies,21-Jun-19,6,3,$8.6
+CA-2019-140487,Sharelle Roach,Home Office,14-Jun-19,Michigan,48234,Furniture,20-Jun-19,6,3,$212.9
+CA-2019-114643,Filia McAdams,Corporate,13-Jun-19,California,90032,Office Supplies,17-Jun-19,4,3,$14.5
+CA-2019-144281,Heather Kirkland,Corporate,10-Jun-19,Michigan,48234,Office Supplies,15-Jun-19,5,5,$491.6
+CA-2019-115812,Brosina Hoffman,Consumer,09-Jun-19,California,90032,Furniture,14-Jun-19,5,16,"$1,755.0"
+,,,,,,Office Supplies,14-Jun-19,5,12,$140.7
+,,,,,,Technology,14-Jun-19,5,10,"$1,818.6"
+CA-2019-132612,Frank Olsen,Consumer,09-Jun-19,Virginia,22801,Furniture,11-Jun-19,2,7,"$1,441.3"
+CA-2019-133753,Carl Weiss,Home Office,09-Jun-19,Texas,77340,Office Supplies,13-Jun-19,4,2,$70.4
+,,,,,,Technology,13-Jun-19,4,3,$72.0
+CA-2019-133851,Chuck Magee,Consumer,09-Jun-19,California,94122,Office Supplies,16-Jun-19,7,4,$30.5
+CA-2019-160262,Thomas Seio,Corporate,09-Jun-19,Nevada,89031,Furniture,13-Jun-19,4,2,$37.4
+,,,,,,Office Supplies,13-Jun-19,4,10,$97.2
+CA-2019-108147,Rick Duston,Consumer,08-Jun-19,New York,11561,Office Supplies,13-Jun-19,5,8,"$1,745.4"
+US-2019-109162,Katrina Edelman,Corporate,08-Jun-19,Tennessee,37620,Furniture,12-Jun-19,4,3,$170.4
+US-2019-141257,Carlos Soltero,Consumer,08-Jun-19,Washington,98115,Furniture,14-Jun-19,6,3,$585.6
+CA-2019-106229,Nick Radford,Consumer,07-Jun-19,Illinois,60505,Furniture,11-Jun-19,4,3,$268.9
+US-2019-134971,Bart Pistole,Corporate,07-Jun-19,Illinois,61604,Office Supplies,10-Jun-19,3,3,$12.5
+CA-2019-133270,Bryan Mills,Consumer,06-Jun-19,New York,14609,Office Supplies,09-Jun-19,3,2,$13.4
+CA-2019-151897,Valerie Takahito,Home Office,06-Jun-19,Texas,77070,Office Supplies,10-Jun-19,4,10,$100.2
+CA-2019-159520,Grant Thornton,Corporate,06-Jun-19,New York,11561,Furniture,11-Jun-19,5,3,$991.8
+,,,,,,Office Supplies,11-Jun-19,5,11,$166.7
+CA-2019-169257,Stewart Visinsky,Consumer,06-Jun-19,Florida,32216,Office Supplies,12-Jun-19,6,3,$63.4
+US-2019-161305,Sarah Bern,Consumer,06-Jun-19,Illinois,60623,Office Supplies,12-Jun-19,6,5,$38.6
+CA-2019-147914,Mark Packer,Home Office,04-Jun-19,Ohio,43229,Office Supplies,09-Jun-19,5,2,$16.2
+CA-2019-151946,Bobby Trafton,Consumer,04-Jun-19,New York,10035,Furniture,09-Jun-19,5,6,$424.5
+,,,,,,Office Supplies,09-Jun-19,5,4,$15.6
+CA-2019-135657,Steven Cartwright,Consumer,03-Jun-19,Washington,98115,Furniture,07-Jun-19,4,6,$515.9
+CA-2019-141299,Ross Baird,Home Office,03-Jun-19,Michigan,48640,Office Supplies,07-Jun-19,4,2,$15.3
+CA-2019-163867,Richard Eichhorn,Consumer,03-Jun-19,Illinois,62521,Furniture,06-Jun-19,3,7,$61.5
+,,,,,,Office Supplies,06-Jun-19,3,7,$148.6
+CA-2019-100895,Stewart Visinsky,Consumer,02-Jun-19,Georgia,30076,Office Supplies,06-Jun-19,4,4,$365.5
+,,,,,,Technology,06-Jun-19,4,3,$240.0
+CA-2019-104472,Christine Kargatis,Home Office,02-Jun-19,Utah,84057,Furniture,07-Jun-19,5,6,$73.3
+,,,,,,Office Supplies,07-Jun-19,5,3,$59.8
+CA-2019-111003,Corey Roper,Home Office,01-Jun-19,New Jersey,08701,Office Supplies,06-Jun-19,5,9,$334.7
+CA-2019-131926,Dianna Wilson,Home Office,01-Jun-19,Minnesota,55044,Furniture,06-Jun-19,5,7,"$2,001.9"
+,,,,,,Office Supplies,06-Jun-19,5,17,"$1,743.8"
+US-2019-157070,Quincy Jones,Corporate,01-Jun-19,Michigan,48234,Office Supplies,06-Jun-19,5,9,$204.1
+US-2019-165659,Liz Thompson,Consumer,01-Jun-19,Arkansas,72209,Furniture,06-Jun-19,5,6,$22.2
+,,,,,,Technology,06-Jun-19,5,7,$881.9
+CA-2019-166051,Jim Karlsson,Consumer,31-May-19,Mississippi,39212,Technology,05-Jun-19,5,6,$773.7
+CA-2019-103429,Laurel Workman,Corporate,30-May-19,New York,10024,Office Supplies,01-Jun-19,2,9,$301.5
+,,,,,,Technology,01-Jun-19,2,5,$464.0
+CA-2019-105872,James Galang,Consumer,30-May-19,New York,10024,Office Supplies,06-Jun-19,7,4,$70.4
+CA-2019-140473,Mark Cousins,Corporate,30-May-19,Illinois,60623,Technology,03-Jun-19,4,3,$720.0
+CA-2019-145800,Shahid Shariari,Consumer,30-May-19,Illinois,60089,Furniture,05-Jun-19,6,3,$355.5
+CA-2019-146885,Ellis Ballard,Corporate,30-May-19,Virginia,23223,Office Supplies,05-Jun-19,6,3,$13.6
+CA-2019-108861,Magdelene Morse,Consumer,28-May-19,Washington,98105,Office Supplies,01-Jun-19,4,4,$137.0
+CA-2019-135993,Patrick Jones,Corporate,28-May-19,Washington,98115,Technology,02-Jun-19,5,10,$85.0
+CA-2019-124429,Maya Herman,Corporate,27-May-19,California,92105,Furniture,27-May-19,0,10,$567.1
+,,,,,,Office Supplies,27-May-19,0,4,$359.3
+CA-2019-139192,Lena Creighton,Consumer,27-May-19,California,94109,Technology,01-Jun-19,5,13,"$1,213.5"
+US-2019-117058,Laurel Elliston,Consumer,27-May-19,Illinois,60653,Office Supplies,30-May-19,3,6,$17.5
+CA-2019-129574,Dean percer,Home Office,26-May-19,Utah,84107,Office Supplies,29-May-19,3,5,$48.4
+CA-2019-144029,Michelle Moray,Consumer,26-May-19,Illinois,60623,Furniture,31-May-19,5,2,$359.8
+,,,,,,Office Supplies,31-May-19,5,6,$116.0
+CA-2019-156349,Marina Lichtenstein,Corporate,26-May-19,California,90008,Furniture,30-May-19,4,2,$290.7
+,,,,,,Technology,30-May-19,4,4,$285.6
+CA-2019-158029,Herbert Flentye,Consumer,26-May-19,California,90008,Furniture,30-May-19,4,2,$225.3
+CA-2019-100391,Barry Weirich,Consumer,25-May-19,New York,10035,Office Supplies,29-May-19,4,2,$14.6
+US-2019-130379,Janet Lee,Consumer,25-May-19,Illinois,60623,Furniture,29-May-19,4,2,$29.3
+,,,,,,Office Supplies,29-May-19,4,2,$75.6
+CA-2019-143413,Resi Pölking,Consumer,24-May-19,Maryland,21215,Office Supplies,30-May-19,6,3,$116.3
+CA-2019-138513,Erica Hackney,Consumer,23-May-19,Washington,98006,Office Supplies,27-May-19,4,2,$13.0
+US-2019-105767,Andrew Roberts,Consumer,23-May-19,Pennsylvania,19134,Office Supplies,27-May-19,4,11,$24.5
+,,,,,,Technology,27-May-19,4,2,$55.2
+US-2019-135881,Greg Tran,Consumer,23-May-19,New York,10035,Office Supplies,27-May-19,4,8,$231.2
+CA-2019-143840,Evan Henry,Consumer,22-May-19,Alabama,35601,Technology,29-May-19,7,3,$180.9
+CA-2019-104780,Bradley Talbott,Home Office,21-May-19,California,92037,Office Supplies,25-May-19,4,8,$31.8
+CA-2019-117639,Mitch Willingham,Corporate,21-May-19,Virginia,23464,Office Supplies,25-May-19,4,7,"$2,715.9"
+,,,,,,Technology,25-May-19,4,3,$618.0
+CA-2019-127166,Katherine Hughes,Consumer,21-May-19,Texas,77070,Furniture,23-May-19,2,2,$107.8
+,,,,,,Office Supplies,23-May-19,2,10,$79.1
+CA-2019-152443,Frank Gastineau,Home Office,21-May-19,Massachusetts,01841,Office Supplies,26-May-19,5,16,$711.7
+CA-2019-130673,Matt Collister,Corporate,20-May-19,Texas,78666,Furniture,22-May-19,2,3,$10.3
+,,,,,,Office Supplies,22-May-19,2,7,$77.3
+,,,,,,Technology,22-May-19,2,2,$20.8
+US-2019-114188,Randy Ferguson,Corporate,20-May-19,New Hampshire,03820,Furniture,22-May-19,2,7,$139.9
+,,,,,,Office Supplies,22-May-19,2,13,$71.8
+CA-2019-130155,Tamara Dahlen,Consumer,19-May-19,Virginia,23464,Office Supplies,22-May-19,3,5,$34.2
+US-2019-107699,John Huston,Consumer,19-May-19,Michigan,48640,Office Supplies,23-May-19,4,9,$57.4
+CA-2019-103373,Bruce Stewart,Consumer,18-May-19,Ohio,44105,Technology,24-May-19,6,2,$779.8
+CA-2019-133963,George Ashbrook,Consumer,18-May-19,Texas,75220,Office Supplies,22-May-19,4,1,$4.0
+CA-2019-164224,Ted Trevino,Consumer,18-May-19,Ohio,44312,Furniture,20-May-19,2,3,$149.2
+,,,,,,Office Supplies,20-May-19,2,4,$15.9
+CA-2019-148761,Pete Armstrong,Home Office,17-May-19,Wisconsin,54703,Office Supplies,21-May-19,4,3,$91.7
+CA-2019-125150,Pauline Webber,Corporate,16-May-19,California,90036,Furniture,23-May-19,7,5,$232.9
+US-2019-163146,Cindy Chapman,Consumer,16-May-19,California,94122,Technology,20-May-19,4,3,$56.4
+CA-2019-106810,Anthony Johnson,Corporate,14-May-19,Florida,33710,Furniture,20-May-19,6,2,$310.9
+CA-2019-113768,Aaron Hawkins,Corporate,13-May-19,California,90004,Furniture,19-May-19,6,6,$279.5
+,,,,,,Office Supplies,19-May-19,6,2,$8.0
+CA-2019-114433,Naresj Patel,Consumer,13-May-19,California,94601,Technology,17-May-19,4,3,$150.0
+CA-2019-140165,Erica Hernandez,Home Office,13-May-19,Florida,33012,Office Supplies,15-May-19,2,10,$405.5
+CA-2019-167164,Alejandro Grove,Consumer,13-May-19,Utah,84084,Office Supplies,15-May-19,2,2,$55.5
+CA-2019-127159,Hunter Lopez,Consumer,12-May-19,Wisconsin,53209,Furniture,15-May-19,3,7,$34.8
+CA-2019-155887,Kean Thornton,Consumer,12-May-19,Massachusetts,02038,Furniture,17-May-19,5,3,$700.1
+CA-2019-103849,Paul Gonzalez,Consumer,11-May-19,Texas,76106,Furniture,16-May-19,5,4,$66.1
+,,,,,,Technology,16-May-19,5,3,$158.9
+CA-2019-119172,Harold Dahlen,Home Office,11-May-19,Illinois,60610,Office Supplies,15-May-19,4,12,$122.1
+CA-2019-127523,Brooke Gillingham,Corporate,11-May-19,New York,13601,Office Supplies,18-May-19,7,3,$35.9
+CA-2019-139017,Raymond Messe,Consumer,11-May-19,Texas,77095,Technology,17-May-19,6,2,$46.9
+CA-2019-152100,Victoria Wilson,Corporate,11-May-19,Texas,77340,Furniture,16-May-19,5,8,"$1,213.0"
+CA-2019-103310,Greg Matthias,Consumer,10-May-19,California,95123,Furniture,15-May-19,5,1,$256.8
+,,,,,,Office Supplies,15-May-19,5,8,$81.0
+,,,,,,Technology,15-May-19,5,5,"$1,432.0"
+CA-2019-114181,Art Foster,Consumer,10-May-19,Pennsylvania,19134,Furniture,14-May-19,4,7,$350.0
+,,,,,,Office Supplies,14-May-19,4,5,$22.3
+CA-2019-159709,Arianne Irving,Consumer,10-May-19,Washington,98031,Office Supplies,15-May-19,5,3,$158.1
+,,,,,,Technology,15-May-19,5,5,$43.6
+CA-2019-158771,Sean Braxton,Corporate,09-May-19,Kentucky,42420,Office Supplies,09-May-19,0,18,$158.7
+US-2019-102071,Patrick Gardner,Consumer,09-May-19,California,94110,Technology,15-May-19,6,7,$235.8
+CA-2019-116666,Kean Thornton,Consumer,08-May-19,Pennsylvania,19134,Technology,10-May-19,2,5,"$1,800.0"
+CA-2019-166086,Carol Triggs,Consumer,07-May-19,Massachusetts,01841,Furniture,12-May-19,5,6,"$1,066.6"
+,,,,,,Office Supplies,12-May-19,5,6,$24.8
+CA-2019-121664,Harold Pawlan,Home Office,06-May-19,California,90049,Office Supplies,10-May-19,4,8,$140.7
+US-2019-154879,Steve Nguyen,Home Office,06-May-19,California,90004,Office Supplies,11-May-19,5,8,$113.7
+CA-2019-110219,Emily Burns,Consumer,05-May-19,Texas,78207,Furniture,08-May-19,3,3,$127.9
+CA-2019-111934,Giulietta Dortch,Corporate,05-May-19,Virginia,22204,Office Supplies,07-May-19,2,3,$47.3
+CA-2019-160738,Katharine Harms,Corporate,05-May-19,Illinois,61032,Office Supplies,10-May-19,5,2,$45.2
+CA-2019-166457,Peter Fuller,Consumer,05-May-19,Kentucky,40475,Office Supplies,09-May-19,4,7,$40.5
+CA-2019-111899,Nat Carroll,Consumer,04-May-19,Texas,77036,Office Supplies,05-May-19,1,8,$43.3
+CA-2019-117709,Paul MacIntyre,Consumer,04-May-19,Michigan,49201,Office Supplies,08-May-19,4,4,$46.8
+CA-2019-155271,Andrew Allen,Consumer,04-May-19,Connecticut,06457,Furniture,04-May-19,0,2,$27.5
+US-2019-148194,Bill Shonely,Corporate,04-May-19,Washington,98105,Furniture,07-May-19,3,7,$12.2
+,,,,,,Office Supplies,07-May-19,3,4,$57.7
+CA-2019-130274,Joni Sundaresam,Home Office,03-May-19,Wisconsin,54915,Office Supplies,05-May-19,2,7,$21.6
+CA-2019-135755,Nathan Cano,Consumer,03-May-19,New York,10701,Office Supplies,10-May-19,7,6,$51.1
+CA-2019-115056,Andrew Roberts,Consumer,02-May-19,Ohio,43229,Office Supplies,02-May-19,0,3,$26.1
+CA-2019-124618,Cari Schnelling,Consumer,02-May-19,Florida,33801,Technology,04-May-19,2,2,$480.0
+CA-2019-156006,Tamara Manning,Consumer,30-Apr-19,Mississippi,39212,Technology,02-May-19,2,3,$47.8
+CA-2019-160094,Justin MacKendrick,Consumer,30-Apr-19,Kentucky,40214,Office Supplies,02-May-19,2,10,"$1,001.0"
+CA-2019-107811,Laura Armstrong,Corporate,29-Apr-19,Tennessee,38109,Furniture,03-May-19,4,2,$561.6
+,,,,,,Office Supplies,03-May-19,4,5,$99.9
+CA-2019-118304,Katherine Hughes,Consumer,29-Apr-19,Delaware,19901,Technology,04-May-19,5,2,$20.0
+CA-2019-134061,Lauren Leatherbury,Consumer,29-Apr-19,New York,14609,Furniture,04-May-19,5,2,$17.5
+CA-2019-142727,Harry Greene,Consumer,29-Apr-19,Louisiana,70601,Furniture,01-May-19,2,2,$52.0
+,,,,,,Office Supplies,01-May-19,2,3,$17.9
+CA-2019-118976,Muhammed Yedwab,Corporate,28-Apr-19,Maryland,21215,Office Supplies,03-May-19,5,14,$527.0
+CA-2019-131387,Arianne Irving,Consumer,28-Apr-19,California,94122,Technology,30-Apr-19,2,5,"$1,680.0"
+CA-2019-132983,David Smith,Corporate,28-Apr-19,New York,14701,Technology,03-May-19,5,2,$160.0
+CA-2019-140228,George Bell,Corporate,28-Apr-19,Ohio,43055,Office Supplies,03-May-19,5,8,$211.6
+CA-2019-116785,Marc Harrigan,Home Office,26-Apr-19,California,90036,Office Supplies,30-Apr-19,4,7,$34.0
+CA-2019-147298,Aleksandra Gannaway,Corporate,26-Apr-19,California,90049,Furniture,03-May-19,7,3,$230.3
+,,,,,,Office Supplies,03-May-19,7,6,$18.3
+CA-2019-110100,Lena Creighton,Consumer,25-Apr-19,North Carolina,28403,Technology,29-Apr-19,4,3,$302.4
+CA-2019-166954,Beth Thompson,Home Office,25-Apr-19,California,91776,Furniture,30-Apr-19,5,10,"$1,790.3"
+,,,,,,Office Supplies,30-Apr-19,5,3,$270.7
+US-2019-157406,Dianna Arnett,Home Office,25-Apr-19,Texas,77095,Office Supplies,29-Apr-19,4,5,$16.6
+CA-2019-111857,Nathan Mautz,Home Office,23-Apr-19,California,94109,Office Supplies,26-Apr-19,3,1,$48.9
+US-2019-112564,Theresa Swint,Corporate,23-Apr-19,Pennsylvania,19134,Office Supplies,24-Apr-19,1,3,$2.5
+US-2019-150119,Laurel Beltran,Home Office,23-Apr-19,Ohio,43229,Furniture,27-Apr-19,4,8,$585.1
+,,,,,,Office Supplies,27-Apr-19,4,8,$7.5
+CA-2019-122070,Aaron Hawkins,Corporate,22-Apr-19,New York,12180,Office Supplies,24-Apr-19,2,11,$257.8
+CA-2019-136336,Dorothy Badders,Corporate,21-Apr-19,Kentucky,42420,Office Supplies,26-Apr-19,5,6,$828.8
+CA-2019-158064,Allen Armold,Consumer,21-Apr-19,California,90008,Office Supplies,25-Apr-19,4,5,$16.5
+CA-2019-101462,Benjamin Patterson,Consumer,20-Apr-19,California,90045,Furniture,25-Apr-19,5,4,$59.9
+CA-2019-134572,Seth Vernon,Consumer,20-Apr-19,Texas,77070,Furniture,22-Apr-19,2,7,"$1,145.7"
+,,,,,,Office Supplies,22-Apr-19,2,5,$44.8
+CA-2019-158470,Allen Goldenen,Consumer,19-Apr-19,Virginia,22204,Office Supplies,23-Apr-19,4,14,$129.3
+CA-2019-169460,Nicole Fjeld,Home Office,19-Apr-19,California,95123,Furniture,21-Apr-19,2,3,$76.1
+CA-2019-100678,Kunst Miller,Consumer,18-Apr-19,Texas,77095,Furniture,22-Apr-19,4,3,$317.1
+,,,,,,Office Supplies,22-Apr-19,4,5,$152.0
+,,,,,,Technology,22-Apr-19,4,3,$228.0
+CA-2019-110849,John Lee,Consumer,18-Apr-19,California,90049,Office Supplies,23-Apr-19,5,11,$35.5
+,,,,,,Technology,23-Apr-19,5,4,$288.0
+CA-2019-155208,Stephanie Phelps,Corporate,16-Apr-19,North Carolina,28403,Office Supplies,20-Apr-19,4,6,$39.1
+US-2019-120740,Paul Stevenson,Home Office,15-Apr-19,California,90049,Furniture,15-Apr-19,0,4,$187.8
+,,,,,,Office Supplies,15-Apr-19,0,2,$107.0
+CA-2019-122336,Jonathan Doherty,Corporate,13-Apr-19,Pennsylvania,19140,Office Supplies,17-Apr-19,4,27,$558.8
+,,,,,,Technology,17-Apr-19,4,12,$71.9
+CA-2019-167724,Ben Ferrer,Home Office,13-Apr-19,Maryland,21215,Office Supplies,18-Apr-19,5,3,$7.8
+CA-2019-142979,Edward Hooks,Corporate,12-Apr-19,California,95240,Office Supplies,18-Apr-19,6,2,$39.7
+CA-2019-154599,Kean Nguyen,Corporate,12-Apr-19,California,90278,Furniture,17-Apr-19,5,3,$308.5
+,,,,,,Office Supplies,17-Apr-19,5,7,$18.1
+,,,,,,Technology,17-Apr-19,5,18,"$1,513.5"
+US-2019-158365,Stewart Visinsky,Consumer,12-Apr-19,Indiana,47401,Office Supplies,17-Apr-19,5,5,$32.4
+CA-2019-110555,Michelle Moray,Consumer,11-Apr-19,Montana,59405,Office Supplies,18-Apr-19,7,7,$87.1
+,,,,,,Technology,18-Apr-19,7,8,$323.0
+CA-2019-138940,Gary Mitchum,Home Office,11-Apr-19,Texas,78745,Technology,16-Apr-19,5,6,$758.4
+US-2019-102715,Jay Kimmel,Consumer,11-Apr-19,Florida,33180,Office Supplies,13-Apr-19,2,5,$17.3
+,,,,,,Technology,13-Apr-19,2,10,$719.9
+US-2019-121734,Sanjit Engle,Consumer,11-Apr-19,Idaho,83501,Office Supplies,16-Apr-19,5,1,$9.6
+CA-2019-100363,Jim Mitchum,Corporate,08-Apr-19,Arizona,85301,Office Supplies,15-Apr-19,7,5,$21.4
+CA-2019-121769,John Stevenson,Consumer,08-Apr-19,Ohio,43615,Furniture,12-Apr-19,4,1,$172.1
+CA-2019-150581,Nathan Mautz,Home Office,08-Apr-19,California,94521,Furniture,12-Apr-19,4,1,$99.6
+,,,,,,Technology,12-Apr-19,4,4,$400.0
+US-2019-118997,Ruben Ausman,Corporate,08-Apr-19,Alabama,35601,Furniture,12-Apr-19,4,8,"$1,215.9"
+US-2019-163797,Pauline Chand,Home Office,08-Apr-19,Arizona,85224,Office Supplies,13-Apr-19,5,8,$49.8
+CA-2019-124023,Pauline Johnson,Consumer,07-Apr-19,Alabama,36608,Furniture,10-Apr-19,3,2,$9.0
+CA-2019-128846,Roland Schwarz,Corporate,07-Apr-19,South Carolina,29203,Office Supplies,12-Apr-19,5,3,$123.0
+,,,,,,Technology,12-Apr-19,5,5,$630.0
+CA-2019-165806,Valerie Mitchum,Home Office,07-Apr-19,Georgia,30062,Office Supplies,07-Apr-19,0,9,$58.3
+,,,,,,Technology,07-Apr-19,0,3,$201.0
+CA-2019-102652,Andy Yotov,Corporate,06-Apr-19,California,90049,Furniture,12-Apr-19,6,9,$125.1
+,,,,,,Office Supplies,12-Apr-19,6,4,$74.9
+CA-2019-136742,Guy Phonely,Corporate,06-Apr-19,Pennsylvania,17602,Office Supplies,10-Apr-19,4,6,$44.9
+CA-2019-153808,Frank Hawley,Corporate,06-Apr-19,California,90004,Office Supplies,10-Apr-19,4,5,$136.5
+,,,,,,Technology,10-Apr-19,4,3,$300.0
+CA-2019-169803,Scott Cohen,Corporate,06-Apr-19,Washington,98115,Furniture,12-Apr-19,6,3,$653.6
+,,,,,,Technology,12-Apr-19,6,2,$33.9
+US-2019-118486,Shirley Daniels,Home Office,06-Apr-19,Pennsylvania,19143,Furniture,08-Apr-19,2,3,$154.8
+,,,,,,Office Supplies,08-Apr-19,2,1,$10.3
+,,,,,,Technology,08-Apr-19,2,2,$116.8
+CA-2019-102988,Greg Maxwell,Corporate,05-Apr-19,Virginia,22304,Office Supplies,09-Apr-19,4,21,"$4,222.9"
+,,,,,,Technology,09-Apr-19,4,1,$29.0
+CA-2019-113887,Tracy Hopkins,Home Office,05-Apr-19,New York,10035,Office Supplies,07-Apr-19,2,1,$55.5
+CA-2019-149104,Ruben Dartt,Consumer,05-Apr-19,Michigan,48127,Office Supplies,07-Apr-19,2,16,$770.6
+CA-2019-151001,John Grady,Corporate,05-Apr-19,Illinois,62521,Office Supplies,07-Apr-19,2,8,$101.7
+US-2019-157231,Roy Phan,Corporate,05-Apr-19,Kentucky,40475,Office Supplies,09-Apr-19,4,7,$115.4
+CA-2019-105172,Paul Knutson,Home Office,04-Apr-19,California,94109,Office Supplies,09-Apr-19,5,6,$18.9
+CA-2019-133228,Maurice Satty,Consumer,04-Apr-19,Michigan,48205,Furniture,09-Apr-19,5,1,$5.5
+,,,,,,Office Supplies,09-Apr-19,5,4,$79.4
+CA-2019-149538,Ken Black,Corporate,04-Apr-19,Louisiana,70506,Office Supplies,08-Apr-19,4,10,$265.0
+,,,,,,Technology,08-Apr-19,4,2,$100.0
+US-2019-128685,Mary Zewe,Corporate,04-Apr-19,California,90008,Office Supplies,05-Apr-19,1,2,$7.2
+CA-2019-112291,Katrina Edelman,Corporate,03-Apr-19,California,90008,Office Supplies,08-Apr-19,5,2,$11.2
+,,,,,,Technology,08-Apr-19,5,5,$222.3
+CA-2019-160276,Anna Häberlin,Corporate,02-Apr-19,Virginia,23464,Furniture,08-Apr-19,6,2,$177.7
+CA-2019-164315,Rob Dowd,Consumer,02-Apr-19,Georgia,30605,Office Supplies,08-Apr-19,6,8,$170.7
+,,,,,,Technology,08-Apr-19,6,7,"$1,049.9"
+US-2019-157847,Sam Craven,Consumer,02-Apr-19,Texas,77095,Office Supplies,06-Apr-19,4,12,$60.2
+CA-2019-138359,Katharine Harms,Corporate,01-Apr-19,Massachusetts,02151,Office Supplies,06-Apr-19,5,6,$73.2
+US-2019-157021,Kunst Miller,Consumer,01-Apr-19,California,94591,Office Supplies,06-Apr-19,5,6,$46.7
+CA-2019-101770,Karen Bern,Corporate,31-Mar-19,Florida,33180,Office Supplies,04-Apr-19,4,1,$1.9
+CA-2019-112403,Jas O'Carroll,Consumer,31-Mar-19,Pennsylvania,19120,Office Supplies,31-Mar-19,0,1,$0.9
+CA-2019-128055,Alex Avila,Consumer,31-Mar-19,California,94122,Office Supplies,05-Apr-19,5,4,$726.5
+CA-2019-130428,Trudy Glocke,Consumer,31-Mar-19,Florida,33614,Furniture,31-Mar-19,0,7,"$1,125.5"
+,,,,,,Office Supplies,31-Mar-19,0,7,$16.7
+US-2019-104759,Dorothy Dickinson,Consumer,31-Mar-19,Illinois,60610,Office Supplies,04-Apr-19,4,7,$8.1
+,,,,,,Technology,04-Apr-19,4,2,$80.0
+CA-2019-131247,Guy Armstrong,Consumer,30-Mar-19,California,94110,Furniture,04-Apr-19,5,2,$205.7
+CA-2019-133424,Dorris liebe,Corporate,30-Mar-19,Washington,98105,Office Supplies,04-Apr-19,5,6,$60.2
+CA-2019-162089,Mark Packer,Home Office,30-Mar-19,Texas,78521,Furniture,01-Apr-19,2,7,$127.3
+,,,,,,Office Supplies,01-Apr-19,2,5,$335.7
+,,,,,,Technology,01-Apr-19,2,7,$251.9
+CA-2019-169033,Kunst Miller,Consumer,30-Mar-19,New York,11561,Office Supplies,03-Apr-19,4,5,$49.7
+US-2019-105151,Susan Gilcrest,Corporate,30-Mar-19,New York,10009,Office Supplies,31-Mar-19,1,5,$10.5
+US-2019-113124,Nat Carroll,Consumer,30-Mar-19,Minnesota,55124,Office Supplies,05-Apr-19,6,2,$129.3
+CA-2019-137274,Mike Gockenbach,Consumer,29-Mar-19,Texas,75023,Furniture,02-Apr-19,4,3,$890.8
+CA-2019-100881,Daniel Raglin,Home Office,28-Mar-19,New Mexico,87105,Technology,01-Apr-19,4,3,$302.4
+US-2019-117380,Mike Pelletier,Home Office,28-Mar-19,Ohio,45503,Furniture,03-Apr-19,6,1,$330.6
+US-2019-137869,Christina VanderZanden,Consumer,28-Mar-19,Iowa,50315,Furniture,02-Apr-19,5,4,"$1,184.7"
+,,,,,,Office Supplies,02-Apr-19,5,3,$6.1
+CA-2019-100860,Cindy Stewart,Consumer,26-Mar-19,California,91767,Office Supplies,30-Mar-19,4,5,$18.8
+CA-2019-138436,Jonathan Doherty,Corporate,26-Mar-19,California,90036,Technology,30-Mar-19,4,3,$66.3
+CA-2019-141838,Damala Kotsonis,Corporate,26-Mar-19,California,94122,Office Supplies,31-Mar-19,5,6,$31.3
+,,,,,,Technology,31-Mar-19,5,2,$28.8
+CA-2019-128237,Christina Anderson,Consumer,25-Mar-19,California,94110,Office Supplies,30-Mar-19,5,10,$46.9
+,,,,,,Technology,30-Mar-19,5,4,$45.5
+CA-2019-148586,Annie Zypern,Consumer,25-Mar-19,New York,10009,Furniture,01-Apr-19,7,7,$366.8
+CA-2019-143637,Maurice Satty,Consumer,24-Mar-19,California,93727,Furniture,29-Mar-19,5,2,$40.5
+CA-2019-147235,Carlos Daly,Consumer,24-Mar-19,New York,10024,Office Supplies,28-Mar-19,4,5,$24.9
+CA-2019-120838,Patrick O'Donnell,Consumer,23-Mar-19,California,90036,Office Supplies,26-Mar-19,3,2,$330.4
+,,,,,,Technology,26-Mar-19,3,6,$604.8
+CA-2019-164749,Bruce Geld,Consumer,23-Mar-19,Florida,33445,Office Supplies,26-Mar-19,3,3,$9.9
+CA-2019-148040,Beth Fritzler,Corporate,22-Mar-19,Arizona,85705,Furniture,26-Mar-19,4,3,$314.4
+,,,,,,Office Supplies,26-Mar-19,4,3,$74.4
+US-2019-129609,Vivian Mathis,Consumer,22-Mar-19,Indiana,46368,Office Supplies,22-Mar-19,0,2,$16.3
+US-2019-158057,Craig Carroll,Consumer,22-Mar-19,North Carolina,27405,Office Supplies,26-Mar-19,4,9,$59.1
+CA-2019-140004,Cassandra Brandow,Consumer,21-Mar-19,Ohio,45011,Office Supplies,25-Mar-19,4,5,$13.5
+CA-2019-163223,Kristen Hastings,Corporate,21-Mar-19,Virginia,22153,Office Supplies,25-Mar-19,4,15,$269.6
+,,,,,,Technology,25-Mar-19,4,7,"$3,499.9"
+US-2019-107405,Thomas Seio,Corporate,21-Mar-19,North Carolina,28806,Office Supplies,25-Mar-19,4,1,$16.3
+US-2019-155544,Gary McGarr,Consumer,21-Mar-19,Tennessee,37918,Furniture,25-Mar-19,4,6,$251.3
+,,,,,,Office Supplies,25-Mar-19,4,5,$59.2
+CA-2019-103989,Matt Connell,Corporate,19-Mar-19,Florida,33801,Furniture,21-Mar-19,2,6,$25.0
+,,,,,,Office Supplies,21-Mar-19,2,12,$71.5
+,,,,,,Technology,21-Mar-19,2,5,$494.2
+CA-2019-111871,Eileen Kiefer,Home Office,18-Mar-19,California,94110,Furniture,21-Mar-19,3,10,"$1,198.3"
+CA-2019-145317,Sean Miller,Home Office,18-Mar-19,Florida,32216,Furniture,23-Mar-19,5,5,$153.1
+,,,,,,Office Supplies,23-Mar-19,5,10,$48.3
+,,,,,,Technology,23-Mar-19,5,10,"$23,459.8"
+US-2019-131275,Sample Company A,Home Office,18-Mar-19,California,91505,Furniture,24-Mar-19,6,2,$111.0
+,,,,,,Office Supplies,24-Mar-19,6,7,"$1,856.2"
+,,,,,,Technology,24-Mar-19,6,4,"$1,280.0"
+CA-2019-118339,Bradley Nguyen,Consumer,17-Mar-19,Minnesota,55044,Office Supplies,24-Mar-19,7,31,$249.9
+CA-2019-127859,Quincy Jones,Corporate,17-Mar-19,Pennsylvania,19134,Office Supplies,20-Mar-19,3,6,$126.6
+CA-2019-158442,Annie Zypern,Consumer,17-Mar-19,Texas,75217,Office Supplies,17-Mar-19,0,6,$25.2
+US-2019-148838,Christine Phan,Corporate,17-Mar-19,New York,10024,Furniture,21-Mar-19,4,14,"$3,265.2"
+,,,,,,Office Supplies,21-Mar-19,4,11,$189.9
+US-2019-164763,Mark Haberlin,Corporate,17-Mar-19,Mississippi,39212,Office Supplies,21-Mar-19,4,14,$103.5
+CA-2019-157609,Kristina Nunn,Home Office,16-Mar-19,North Carolina,27604,Technology,21-Mar-19,5,2,$471.9
+CA-2019-149958,Alan Shonely,Consumer,15-Mar-19,Florida,33614,Furniture,19-Mar-19,4,3,$45.7
+,,,,,,Office Supplies,19-Mar-19,4,11,$325.1
+CA-2019-100293,Neil Französisch,Home Office,14-Mar-19,Florida,32216,Office Supplies,18-Mar-19,4,6,$91.1
+CA-2019-114510,Jason Fortune-,Consumer,14-Mar-19,Utah,84321,Office Supplies,19-Mar-19,5,9,$197.5
+,,,,,,Technology,19-Mar-19,5,12,$82.8
+CA-2019-152618,Rick Bensley,Home Office,14-Mar-19,Illinois,60653,Office Supplies,17-Mar-19,3,2,$8.4
+,,,,,,Technology,17-Mar-19,3,2,$574.9
+CA-2019-157623,Dean Katz,Corporate,14-Mar-19,California,92646,Office Supplies,18-Mar-19,4,3,$13.9
+US-2019-125521,Christine Kargatis,Home Office,14-Mar-19,Virginia,23320,Furniture,19-Mar-19,5,4,"$1,139.9"
+CA-2019-114790,Filia McAdams,Corporate,11-Mar-19,Kentucky,40475,Office Supplies,13-Mar-19,2,6,$161.7
+,,,,,,Technology,13-Mar-19,2,5,$620.9
+CA-2019-158337,Kelly Andreada,Consumer,11-Mar-19,New York,10024,Office Supplies,14-Mar-19,3,14,$108.9
+CA-2019-166884,Chloris Kastensmidt,Consumer,11-Mar-19,Ohio,43229,Furniture,16-Mar-19,5,5,$8.3
+,,,,,,Office Supplies,16-Mar-19,5,6,$10.5
+US-2019-103338,Richard Bierner,Consumer,11-Mar-19,California,95661,Office Supplies,15-Mar-19,4,3,$8.0
+US-2019-100279,Scott Williamson,Consumer,10-Mar-19,Michigan,48073,Office Supplies,14-Mar-19,4,2,$22.4
+US-2019-140116,Kean Thornton,Consumer,10-Mar-19,Colorado,80219,Office Supplies,17-Mar-19,7,7,$719.6
+CA-2019-104563,Craig Molinari,Corporate,07-Mar-19,Washington,98103,Furniture,12-Mar-19,5,8,$918.3
+,,,,,,Office Supplies,12-Mar-19,5,10,$225.6
+CA-2019-156587,Aaron Bergman,Consumer,07-Mar-19,Washington,98103,Furniture,08-Mar-19,1,1,$48.7
+,,,,,,Office Supplies,08-Mar-19,1,6,$260.9
+US-2019-131982,Nora Pelletier,Home Office,07-Mar-19,Washington,98198,Office Supplies,11-Mar-19,4,2,$107.6
+CA-2019-169061,Aimee Bixby,Consumer,05-Mar-19,New York,10701,Office Supplies,08-Mar-19,3,13,$225.6
+,,,,,,Technology,08-Mar-19,3,3,$480.0
+CA-2019-116239,Clay Ludtke,Consumer,04-Mar-19,South Carolina,29203,Office Supplies,04-Mar-19,0,5,$354.9
+CA-2019-117016,Sanjit Chand,Consumer,04-Mar-19,Florida,33063,Office Supplies,09-Mar-19,5,3,$15.6
+CA-2019-105648,Eva Jacobs,Consumer,03-Mar-19,California,92037,Furniture,07-Mar-19,4,3,$626.4
+CA-2019-127964,Anne Pryor,Home Office,03-Mar-19,New York,10035,Office Supplies,08-Mar-19,5,8,$151.1
+,,,,,,Technology,08-Mar-19,5,1,$10.0
+CA-2019-130421,Sam Craven,Consumer,03-Mar-19,Texas,77095,Office Supplies,07-Mar-19,4,3,$176.8
+CA-2019-155852,Ashley Jarboe,Consumer,03-Mar-19,North Carolina,28403,Office Supplies,07-Mar-19,4,4,$19.5
+US-2019-127978,Jill Stevenson,Corporate,03-Mar-19,Ohio,43229,Furniture,08-Mar-19,5,5,$302.5
+,,,,,,Office Supplies,08-Mar-19,5,11,$59.8
+CA-2019-107524,Kristina Nunn,Home Office,02-Mar-19,New York,10009,Office Supplies,08-Mar-19,6,7,$47.8
+CA-2019-111157,Nicole Hansen,Corporate,02-Mar-19,Pennsylvania,19120,Office Supplies,06-Mar-19,4,1,$3.4
+,,,,,,Technology,06-Mar-19,4,3,$151.2
+CA-2019-104269,Dave Brooks,Consumer,01-Mar-19,Washington,98115,Furniture,06-Mar-19,5,2,$457.6
+CA-2019-113880,Vicky Freymann,Home Office,01-Mar-19,Illinois,60126,Furniture,05-Mar-19,4,6,$634.1
+,,,,,,Office Supplies,05-Mar-19,4,3,$17.5
+CA-2019-131009,Shahid Collister,Consumer,01-Mar-19,Texas,79907,Furniture,05-Mar-19,4,12,$425.8
+,,,,,,Office Supplies,05-Mar-19,4,8,$148.4
+CA-2019-168312,Giulietta Weimer,Consumer,01-Mar-19,Texas,77036,Furniture,07-Mar-19,6,3,$376.5
+,,,,,,Office Supplies,07-Mar-19,6,3,$137.4
+US-2019-143707,Hallie Redmond,Home Office,01-Mar-19,New York,10035,Technology,05-Mar-19,4,3,$5.9
+CA-2019-156545,Joy Smith,Consumer,27-Feb-19,Ohio,43229,Office Supplies,03-Mar-19,4,4,$19.5
+US-2019-137680,Jennifer Halladay,Consumer,24-Feb-19,Oregon,97504,Office Supplies,02-Mar-19,6,7,$55.7
+CA-2019-103744,Michael Grace,Home Office,23-Feb-19,Texas,79907,Office Supplies,27-Feb-19,4,6,$11.4
+CA-2019-133354,Sue Ann Reed,Consumer,22-Feb-19,California,92553,Office Supplies,24-Feb-19,2,3,$19.4
+CA-2019-165540,Tamara Manning,Consumer,21-Feb-19,Illinois,60098,Office Supplies,25-Feb-19,4,5,$8.9
+CA-2019-109491,Linda Cazamias,Corporate,20-Feb-19,Indiana,47374,Furniture,26-Feb-19,6,4,$20.3
+,,,,,,Technology,26-Feb-19,6,3,$62.3
+CA-2019-164903,Steven Roelle,Home Office,20-Feb-19,California,90049,Office Supplies,24-Feb-19,4,2,$13.0
+CA-2019-152905,Aaron Bergman,Consumer,18-Feb-19,Texas,76017,Office Supplies,24-Feb-19,6,2,$12.6
+US-2019-165589,Troy Blackwell,Consumer,18-Feb-19,Texas,79424,Furniture,18-Feb-19,0,5,$25.2
+CA-2019-154165,Delfina Latchford,Consumer,17-Feb-19,Illinois,60653,Office Supplies,24-Feb-19,7,14,$54.2
+CA-2019-122567,Michael Nguyen,Consumer,16-Feb-19,Texas,75220,Office Supplies,21-Feb-19,5,5,$9.0
+CA-2019-165568,Barry Französisch,Corporate,15-Feb-19,Washington,98105,Office Supplies,19-Feb-19,4,5,$21.4
+CA-2019-107706,Shui Tom,Consumer,14-Feb-19,Texas,77095,Office Supplies,19-Feb-19,5,3,$16.2
+CA-2019-121762,Marina Lichtenstein,Corporate,14-Feb-19,Washington,98103,Office Supplies,18-Feb-19,4,4,$320.6
+,,,,,,Technology,18-Feb-19,4,3,$240.0
+US-2019-110674,Sanjit Chand,Consumer,12-Feb-19,California,94521,Furniture,18-Feb-19,6,2,$129.6
+CA-2019-127614,Natalie Fritzler,Consumer,11-Feb-19,Virginia,23320,Furniture,15-Feb-19,4,6,"$1,256.2"
+,,,,,,Office Supplies,15-Feb-19,4,2,$17.5
+,,,,,,Technology,15-Feb-19,4,3,$234.5
+CA-2019-168368,Guy Armstrong,Consumer,11-Feb-19,Missouri,65203,Furniture,15-Feb-19,4,4,$393.8
+,,,,,,Office Supplies,15-Feb-19,4,10,$141.4
+CA-2019-125759,Nathan Mautz,Home Office,08-Feb-19,Nevada,89031,Furniture,09-Feb-19,1,2,$14.6
+CA-2019-107755,Cyma Kinney,Corporate,07-Feb-19,New Jersey,07036,Technology,12-Feb-19,5,7,$115.4
+US-2019-169390,Chris Selesnick,Corporate,07-Feb-19,New York,10024,Office Supplies,10-Feb-19,3,4,$65.0
+CA-2019-108182,Delfina Latchford,Consumer,06-Feb-19,Illinois,60441,Office Supplies,10-Feb-19,4,2,$9.0
+CA-2019-131905,Neil Ducich,Corporate,06-Feb-19,Virginia,23320,Office Supplies,09-Feb-19,3,4,$15.0
+,,,,,,Technology,09-Feb-19,3,6,$306.6
+CA-2019-104808,Mark Haberlin,Corporate,04-Feb-19,California,92025,Office Supplies,08-Feb-19,4,2,$17.2
+CA-2019-107181,Deborah Brumfield,Home Office,04-Feb-19,California,92024,Office Supplies,08-Feb-19,4,7,$117.1
+CA-2019-111059,Tom Boeckenhauer,Consumer,03-Feb-19,Washington,98105,Office Supplies,06-Feb-19,3,5,$97.1
+CA-2019-123400,Eric Barreto,Consumer,02-Feb-19,Florida,33710,Office Supplies,09-Feb-19,7,2,$18.3
+,,,,,,Technology,09-Feb-19,7,5,$181.0
+CA-2019-139857,Cynthia Delaney,Home Office,02-Feb-19,California,92037,Office Supplies,06-Feb-19,4,5,$12.4
+CA-2019-140795,Bradley Drucker,Consumer,01-Feb-19,Wisconsin,54302,Technology,03-Feb-19,2,6,$468.9
+CA-2019-115161,Liz Carlisle,Consumer,31-Jan-19,California,92691,Furniture,02-Feb-19,2,2,$290.7
+CA-2019-134103,Mike Vittorini,Consumer,30-Jan-19,Michigan,48234,Office Supplies,04-Feb-19,5,4,$240.5
+CA-2019-100328,Jasper Cacioppo,Consumer,28-Jan-19,New York,10024,Office Supplies,03-Feb-19,6,1,$3.9
+US-2019-117163,Ed Jacobs,Consumer,27-Jan-19,California,92037,Furniture,02-Feb-19,6,3,$333.0
+,,,,,,Office Supplies,02-Feb-19,6,5,$93.7
+CA-2019-167997,Carol Adams,Corporate,26-Jan-19,South Dakota,57701,Furniture,29-Jan-19,3,2,$142.0
+,,,,,,Office Supplies,29-Jan-19,3,2,$10.7
+US-2019-155502,Shirley Daniels,Home Office,26-Jan-19,Virginia,22304,Furniture,31-Jan-19,5,6,$75.2
+,,,,,,Office Supplies,31-Jan-19,5,13,$526.0
+,,,,,,Technology,31-Jan-19,5,15,$343.3
+CA-2019-102645,Ionia McGrath,Consumer,23-Jan-19,Nevada,89115,Office Supplies,28-Jan-19,5,6,$40.1
+CA-2019-146997,Speros Goranitis,Consumer,23-Jan-19,Indiana,47905,Office Supplies,27-Jan-19,4,3,$5.9
+CA-2019-110422,Tom Boeckenhauer,Consumer,21-Jan-19,Florida,33180,Furniture,23-Jan-19,2,3,$25.2
+CA-2019-148614,Mark Van Huff,Consumer,20-Jan-19,California,90049,Furniture,25-Jan-19,5,2,$19.3
+,,,,,,Office Supplies,25-Jan-19,5,2,$19.4
+CA-2019-167927,Xylona Preis,Consumer,20-Jan-19,Michigan,48185,Furniture,26-Jan-19,6,6,$287.7
+,,,,,,Office Supplies,26-Jan-19,6,20,$420.9
+US-2019-147627,Hunter Lopez,Consumer,20-Jan-19,Arkansas,72401,Furniture,26-Jan-19,6,7,"$1,106.5"
+,,,,,,Office Supplies,26-Jan-19,6,13,$52.9
+,,,,,,Technology,26-Jan-19,6,7,$699.9
+US-2019-147774,Muhammed MacIntyre,Corporate,20-Jan-19,Tennessee,37167,Office Supplies,26-Jan-19,6,1,$67.2
+CA-2019-146591,Toby Swindell,Consumer,19-Jan-19,Arizona,85254,Furniture,20-Jan-19,1,5,$181.5
+,,,,,,Office Supplies,20-Jan-19,1,19,$197.1
+CA-2019-123477,David Wiener,Corporate,18-Jan-19,Oregon,97477,Office Supplies,21-Jan-19,3,4,$64.9
+CA-2019-115791,Delfina Latchford,Consumer,16-Jan-19,Pennsylvania,19134,Furniture,18-Jan-19,2,6,$127.1
+,,,,,,Office Supplies,18-Jan-19,2,5,$48.7
+,,,,,,Technology,18-Jan-19,2,3,$124.2
+CA-2019-103366,Erica Hackney,Consumer,15-Jan-19,Georgia,30076,Technology,17-Jan-19,2,5,$150.0
+CA-2019-149524,Brendan Sweed,Corporate,14-Jan-19,Pennsylvania,19140,Furniture,15-Jan-19,1,4,$62.0
+CA-2019-109232,Natalie DeCherney,Consumer,13-Jan-19,South Carolina,29464,Furniture,16-Jan-19,3,6,$545.9
+CA-2019-118192,Michael Moore,Consumer,13-Jan-19,Ohio,43055,Office Supplies,18-Jan-19,5,9,$40.8
+CA-2019-157147,Brian Dahlen,Consumer,13-Jan-19,California,94109,Furniture,18-Jan-19,5,3,$334.0
+,,,,,,Office Supplies,18-Jan-19,5,10,"$1,345.8"
+CA-2019-162775,Chris Selesnick,Corporate,13-Jan-19,Louisiana,71111,Office Supplies,15-Jan-19,2,14,$640.5
+,,,,,,Technology,15-Jan-19,2,6,$646.7
+CA-2019-130092,Seth Vernon,Consumer,11-Jan-19,Delaware,19901,Furniture,14-Jan-19,3,2,$9.9
+CA-2019-149020,Anthony Jacobs,Corporate,10-Jan-19,Virginia,22153,Furniture,15-Jan-19,5,1,$51.9
+,,,,,,Office Supplies,15-Jan-19,5,1,$2.9
+CA-2019-135405,Melanie Seite,Consumer,09-Jan-19,Texas,78041,Office Supplies,13-Jan-19,4,2,$9.3
+,,,,,,Technology,13-Jan-19,4,3,$31.2
+CA-2019-105417,Vivek Sundaresam,Consumer,07-Jan-19,Texas,77340,Furniture,12-Jan-19,5,3,$76.7
+,,,,,,Office Supplies,12-Jan-19,5,7,$10.4
+CA-2019-106054,Jack O'Briant,Corporate,06-Jan-19,Georgia,30605,Office Supplies,07-Jan-19,1,3,$12.8
+CA-2019-130813,Lycoris Saunders,Consumer,06-Jan-19,California,90049,Office Supplies,08-Jan-19,2,3,$19.4
+CA-2019-167199,Maria Etezadi,Home Office,06-Jan-19,Kentucky,42420,Furniture,10-Jan-19,4,9,"$2,573.8"
+,,,,,,Office Supplies,10-Jan-19,4,9,$653.1
+,,,,,,Technology,10-Jan-19,4,6,"$1,147.9"
+CA-2019-141817,Mick Brown,Consumer,05-Jan-19,Pennsylvania,19143,Office Supplies,12-Jan-19,7,3,$19.5
+CA-2019-112326,Phillina Ober,Home Office,04-Jan-19,Illinois,60540,Office Supplies,08-Jan-19,4,8,$288.1
+CA-2019-103800,Darren Powers,Consumer,03-Jan-19,Texas,77095,Office Supplies,07-Jan-19,4,2,$16.4
